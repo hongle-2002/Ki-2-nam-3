@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="WEBTRUYEN" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-9CMEP2V\SQLEXPRESS;Initial Catalog=WEBTRUYEN;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="WEBTRUYENConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TRUYEN" Member="TRUYENs">
+    <Type Name="TRUYEN">
+      <Column Name="IDTruyen" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDTheLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TenTruyen" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="UrlAvatar" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="LuotXem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="NgayCapNhat" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NgayTao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="THELOAI_TRUYEN" Member="THELOAI" ThisKey="IDTheLoai" OtherKey="IDTheLoai" Type="THELOAI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.THELOAI" Member="THELOAIs">
+    <Type Name="THELOAI">
+      <Column Name="IDTheLoai" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenTheLoai" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NgayTao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NgayCapNhat" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="THELOAI_TRUYEN" Member="TRUYENs" ThisKey="IDTheLoai" OtherKey="IDTheLoai" Type="TRUYEN" />
+    </Type>
+  </Table>
+</Database>

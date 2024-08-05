@@ -1,0 +1,566 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>MultiShop - Online Shop Website Template</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="../LayoutThuoc/img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="../LayoutThuoc/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="../LayoutThuoc/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="../LayoutThuoc/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Topbar Start -->
+    <div class="container-fluid">
+        <div class="row bg-secondary py-1 px-xl-5">
+            <div class="col-lg-6 d-none d-lg-block">
+                <div class="d-inline-flex align-items-center h-100">
+                    <a class="text-body mr-3" href="">About</a>
+                    <a class="text-body mr-3" href="">Contact</a>
+                    <a class="text-body mr-3" href="">Help</a>
+                    <a class="text-body mr-3" href="">FAQs</a>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center text-lg-right">
+                <div class="d-inline-flex align-items-center">
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown">My Account</button>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a class="dropdown-item"  asp-controller="Access" asp-action="Logout"><i class="fa fa-user"></i> Logout</a>
+                          @*  <button class="dropdown-item" type="button">Sign up</button>*@
+                        </div>
+                    </div>
+                    <div class="btn-group mx-2">
+                        <button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown">USD</button>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <button class="dropdown-item" type="button">EUR</button>
+                            <button class="dropdown-item" type="button">GBP</button>
+                            <button class="dropdown-item" type="button">CAD</button>
+                        </div>
+                    </div>
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown">EN</button>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <button class="dropdown-item" type="button">FR</button>
+                            <button class="dropdown-item" type="button">AR</button>
+                            <button class="dropdown-item" type="button">RU</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-inline-flex align-items-center d-block d-lg-none">
+                    <a href="" class="btn px-0 ml-2">
+                        <i class="fas fa-heart text-dark"></i>
+                        <span class="badge text-dark border border-dark rounded-circle" style="padding-bottom: 2px;">0</span>
+                    </a>
+                    <a href="" class="btn px-0 ml-2">
+                        <i class="fas fa-shopping-cart text-dark"></i>
+                        <span class="badge text-dark border border-dark rounded-circle" style="padding-bottom: 2px;">0</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center bg-light py-3 px-xl-5 d-none d-lg-flex">
+            <div class="col-lg-4">
+                <a href="" class="text-decoration-none">
+                    <span class="h1 text-uppercase text-primary bg-dark px-2">Multi</span>
+                    <span class="h1 text-uppercase text-dark bg-primary px-2 ml-n1">Shop</span>
+                </a>
+            </div>
+            <div class="col-lg-4 col-6 text-left">
+                <form action="">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search for products">
+                        <div class="input-group-append">
+                            <span class="input-group-text bg-transparent text-primary">
+                                <i class="fa fa-search"></i>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-4 col-6 text-right">
+                <p class="m-0">Customer Service</p>
+                <h5 class="m-0">+012 345 6789</h5>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+    <!-- Navbar Start -->
+    <div class="container-fluid bg-dark mb-30">
+        <div class="row px-xl-5">
+            @await Component.InvokeAsync("LoaiSpMenu")
+            <div class="col-lg-9">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-0">
+                    <a href="" class="text-decoration-none d-block d-lg-none">
+                        <span class="h1 text-uppercase text-dark bg-light px-2">Multi</span>
+                        <span class="h1 text-uppercase text-light bg-primary px-2 ml-n1">Shop</span>
+                    </a>
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                        <div class="navbar-nav mr-auto py-0">
+                            <a href="index.html" class="nav-item nav-link active">Home</a>
+                            <a href="shop.html" class="nav-item nav-link">Shop</a>
+                            <a href="detail.html" class="nav-item nav-link">Shop Detail</a>
+                            <div class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down mt-1"></i></a>
+                                <div class="dropdown-menu bg-primary rounded-0 border-0 m-0">
+                                    <a href="cart.html" class="dropdown-item">Shopping Cart</a>
+                                    <a href="checkout.html" class="dropdown-item">Checkout</a>
+                                </div>
+                            </div>
+                            <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        </div>
+                        <div class="navbar-nav ml-auto py-0 d-none d-lg-block">
+                            <a href="" class="btn px-0">
+                                <i class="fas fa-heart text-primary"></i>
+                                <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
+                            </a>
+                            <a href="" class="btn px-0 ml-3">
+                                <i class="fas fa-shopping-cart text-primary"></i>
+                                <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
+                            </a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar End -->
+    <!-- Carousel Start -->
+    <div class="container-fluid mb-3">
+        <div class="row px-xl-5">
+            <div class="col-lg-8">
+                <div id="header-carousel" class="carousel slide carousel-fade mb-30 mb-lg-0" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#header-carousel" data-slide-to="1"></li>
+                        <li data-target="#header-carousel" data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item position-relative active" style="height: 430px;">
+                            <img class="position-absolute w-100 h-100" src="https://vinmec-prod.s3.amazonaws.com/images/20210129_053434_192052_thuoc.max-1800x1800.jpg" style="object-fit: cover;">
+                            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                <div class="p-3" style="max-width: 700px;">
+                                    <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Commonly used drugs</h1>
+                                    <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Digestive drugs such as: Motilium M are effective in treating flatulence</p>
+                                    <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item position-relative" style="height: 430px;">
+                            <img class="position-absolute w-100 h-100" src="https://img.dantocmiennui.vn/t620/uploaded/yrguvatbpqhat/2022_04_12/98f13708210194c475687be6106a3b84.jpg" style="object-fit: cover;">
+                            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                <div class="p-3" style="max-width: 700px;">
+                                    <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Commonly used drugs</h1>
+                                    <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Digestive drugs such as: Motilium M are effective in treating flatulence</p>
+                                    <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item position-relative" style="height: 430px;">
+                            <img class="position-absolute w-100 h-100" src="https://bloganchoi.com/wp-content/uploads/2022/05/thuoc-giam-dau-ha-sot.jpg" style="object-fit: cover;">
+                            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                                <div class="p-3" style="max-width: 700px;">
+                                    <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Commonly used drugs</h1>
+                                    <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Digestive drugs such as: Motilium M are effective in treating flatulence,</p>
+                                    <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="product-offer mb-30" style="height: 200px;">
+                    <img class="img-fluid" src="https://benhvienthucuc.vn/wp-content/uploads/2020/07/nguyen-tac-su-dung-khang-sinh-an-toan-cho-he-tieu-hoa-cua-tre-600x600.jpg" alt="">
+                    <div class="offer-text">
+                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h3 class="text-white mb-3">Special Offer</h3>
+                        <a href="" class="btn btn-primary">Shop Now</a>
+                    </div>
+                </div>
+                <div class="product-offer mb-30" style="height: 200px;">
+                    <img class="img-fluid" src="https://suckhoedoisong.qltns.mediacdn.vn/Images/hahien/2017/06/09/Univadis_9.6_Mot_so_thuoc_tim_mach_co_the_lam_tang_nguy_co_nga_BS_P.Lien.jpg" alt="">
+                    <div class="offer-text">
+                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h3 class="text-white mb-3">Special Offer</h3>
+                        <a href="" class="btn btn-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel End -->
+    <!-- Featured Start -->
+    <div class="container-fluid pt-5">
+        <div class="row px-xl-5 pb-3">
+            <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+                <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
+                    <h1 class="fa fa-check text-primary m-0 mr-3"></h1>
+                    <h5 class="font-weight-semi-bold m-0">Quality Product</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+                <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
+                    <h1 class="fa fa-shipping-fast text-primary m-0 mr-2"></h1>
+                    <h5 class="font-weight-semi-bold m-0">Free Shipping</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+                <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
+                    <h1 class="fas fa-exchange-alt text-primary m-0 mr-3"></h1>
+                    <h5 class="font-weight-semi-bold m-0">14-Day Return</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
+                <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
+                    <h1 class="fa fa-phone-volume text-primary m-0 mr-3"></h1>
+                    <h5 class="font-weight-semi-bold m-0">24/7 Support</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Featured End -->
+    <!-- Categories Start -->
+    <div class="container-fluid pt-5">
+        <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Featured Products</span></h2>
+        <div class="row px-xl-5 pb-3">
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="data:image/jpeg;base64,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" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://toplist.vn/images/800px/panadol-extra-173579.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://cdccantho.vn/uploads/news/2022_01/thuoc-gastropulgite.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://silethuoc.com/wp-content/uploads/2019/10/coldacmin-2-700x467.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://quaythuoc.org/img/uploads/glotadol-f.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://uphace.vn/wp-content/uploads/2018/01/05-paracetamol-500mg-vien-nen-dai-hong.png" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://thuocdantoc.vn/wp-content/uploads/2021/08/thuoc-panadol-cam-cum-2.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://www.dhgpharma.com.vn/images/stories/virtuemart/product/hapacol%20cam%20cum.png" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDCrKkspWcaEFFYOmb_noGD8WNSg18Q8Vtg&usqp=CAU" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://www.dhgpharma.com.vn/images/stories/virtuemart/product/hapacol%20cam%20cum.png" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://thuocdantoc.vn/wp-content/uploads/2021/08/thuoc-panadol-cam-cum-2.jpg" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="">
+                    <div class="cat-item img-zoom d-flex align-items-center mb-4">
+                        <div class="overflow-hidden" style="width: 100px; height: 100px;">
+                            <img class="img-fluid" src="https://uphace.vn/wp-content/uploads/2018/01/05-paracetamol-500mg-vien-nen-dai-hong.png" alt="">
+                        </div>
+                        <div class="flex-fill pl-3">
+                            <h6>Category Name</h6>
+                            <small class="text-body">100 Products</small>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- Categories End -->
+    <!-- Products Start -->
+    <div class="container-fluid pt-5 pb-3">
+        <h2 class="section-title position-relative text-uppercase mx-xl-5 mb-4"><span class="bg-secondary pr-3">Drug Product list</span></h2>
+        <div id="displayProducts" class="row px-xl-5">
+           @RenderBody()
+        </div>
+    </div>
+    <!-- Products End -->
+    <!-- Offer Start -->
+    <div class="container-fluid pt-5 pb-3">
+        <div class="row px-xl-5">
+            <div class="col-md-6">
+                <div class="product-offer mb-30" style="height: 300px;">
+                    <img class="img-fluid" src="https://shipthuocnhanh.vn/images/products/2021/07/24/132715906746847165.jpg" alt="">
+                    <div class="offer-text">
+                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h3 class="text-white mb-3">Digestive medicine</h3>
+                        <a href="" class="btn btn-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="product-offer mb-30" style="height: 300px;">
+                    <img class="img-fluid" src="https://cdn.tgdd.vn/Products/Images/10037/131485/nizoral-cream-10g-thumb-1-600x600.jpg" alt="">
+                    <div class="offer-text">
+                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h3 class="text-white mb-3">Dermatology drugs</h3>
+                        <a href="" class="btn btn-primary">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Offer End -->
+    <!-- Products Start -->
+    
+    <!-- Products End -->
+    <!-- Vendor Start -->
+    <div class="container-fluid py-5">
+        <div class="row px-xl-5">
+            <div class="col">
+                <div class="owl-carousel vendor-carousel">
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-1.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-2.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-3.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-4.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-5.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-6.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-7.jpg" alt="">
+                    </div>
+                    <div class="bg-light p-4">
+                        <img src="../LayoutThuoc/img/vendor-8.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vendor End -->
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-secondary mt-5 pt-5">
+        <div class="row px-xl-5 pt-5">
+            <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
+                <h5 class="text-secondary text-uppercase mb-4">Get In Touch</h5>
+                <p class="mb-4">No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor. Rebum tempor no vero est magna amet no</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>123 Street, New York, USA</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>info@example.com</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>+012 345 67890</p>
+            </div>
+            <div class="col-lg-8 col-md-12">
+                <div class="row">
+                    <div class="col-md-4 mb-5">
+                        <h5 class="text-secondary text-uppercase mb-4">Quick Shop</h5>
+                        <div class="d-flex flex-column justify-content-start">
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-secondary" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <h5 class="text-secondary text-uppercase mb-4">My Account</h5>
+                        <div class="d-flex flex-column justify-content-start">
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Shop</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Shop Detail</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-secondary mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-secondary" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <h5 class="text-secondary text-uppercase mb-4">Newsletter</h5>
+                        <p>Duo stet tempor ipsum sit amet magna ipsum tempor est</p>
+                        <form action="">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Your Email Address">
+                                <div class="input-group-append">
+                                    <button class="btn btn-primary">Sign Up</button>
+                                </div>
+                            </div>
+                        </form>
+                        <h6 class="text-secondary text-uppercase mt-4 mb-3">Follow Us</h6>
+                        <div class="d-flex">
+                            <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row border-top mx-xl-5 py-4" style="border-color: rgba(256, 256, 256, .1) !important;">
+            <div class="col-md-6 px-xl-0">
+                <p class="mb-md-0 text-center text-md-left text-secondary">
+                    &copy; <a class="text-primary" href="#">Domain</a>. All Rights Reserved. Designed
+                    by
+                    <a class="text-primary" href="https://htmlcodex.com">HTML Codex</a>
+                </p>
+            </div>
+            <div class="col-md-6 px-xl-0 text-center text-md-right">
+                <img class="img-fluid" src="../LayoutThuoc/img/payments.png" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="../LayoutThuoc/lib/easing/easing.min.js"></script>
+    <script src="../LayoutThuoc/lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="../LayoutThuoc/mail/jqBootstrapValidation.min.js"></script>
+    <script src="../LayoutThuoc/mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="../LayoutThuoc/js/main.js"></script>
+</body>
+
+</html>

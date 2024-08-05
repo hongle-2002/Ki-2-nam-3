@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BaoCao.Models.KhachHang>
+
+@{
+    ViewData["Title"] = "DanhSachKhachHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h3>Khách hàng</h3>
+<p>
+    <a asp-action="ThemKH">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+               Tên khách hàng
+            </th>
+            <th>
+               Địa chỉ
+            </th>
+            <th>
+                Số điện thoại
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            string @cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls table-bordered">
+                
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sdt)
+            </td>
+           
+            <td>
+                <a asp-action="SuaKH" asp-route-makh="@item.MaKh">Edit</a> |
+                
+                <a asp-action="XoaKH" asp-route-makh="@item.MaKh">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

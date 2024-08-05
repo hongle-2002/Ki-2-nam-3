@@ -1,0 +1,159 @@
+﻿@model BaoCao.Models.Sach
+
+@{
+    ViewData["Title"] = "ChiTietSanPham";
+    Layout = "~/Views/Shared/_LayoutSach.cshtml";
+}
+
+<div class="container-fluid pb-5">
+    <div class="row px-xl-5">
+        <div class="col-lg-5 mb-30">
+            <div class="product-detail-img row">
+                <img class="product-detail-img__represent h-100 w-100" src="@Url.Content("../AnhWeb/" + Model.Anh)" alt="">
+                <div class="col-12">
+                    <div class="product-detail-img__slider owl-carousel mt-3 owl-loaded owl-drag">
+
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(-443px, 0px, 0px); transition: all 0s ease 0s; width: 1329px;">
+                                <div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-1.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-2.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-3.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-4.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-5.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item active" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-1.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item active" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-2.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item active" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-3.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item active" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-4.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item active" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-5.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-1.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-2.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-3.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-4.jpg" alt="">
+                                    </div>
+                                </div><div class="owl-item cloned" style="width: 72.6px; margin-right: 16px;">
+                                    <div class="product-detail-img-slide__item">
+                                        <img class="h-100 w-100" src="../assets/img/trademark-5.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 mb-30">
+            <div class="product-detail bg-light h-100">
+                <h3 class="text-dark">@Model.TenSach</h3>
+                <div class="d-flex mb-3">
+                    <div class="text-primary me-2">
+                        <small class="star__icon fas fa-star"></small>
+                        <small class="star__icon fas fa-star"></small>
+                        <small class="star__icon fas fa-star"></small>
+                        <small class="star__icon fas fa-star-half-alt"></small>
+                        <small class="star__icon far fa-star"></small>
+                    </div>
+                    <small class="pt-1">(99 Reviews)</small>
+                </div>
+                <h3 class="text-dark mb-4">@Model.GiaNhoNhat</h3>
+                <p class="text-dark mb-4">
+                  Tác giả: @Model.TacGia
+                </p>
+                <div class="d-flex mb-3">
+                    Mô tả: @Model.MoTa
+                </div>
+                <div class="d-flex mb-4">
+                   Khối lượng:  @Model.KhoiLuong
+                </div>
+                <div class="d-flex mb-4 pt-2">
+                    <div class="input-group product-quantity me-3">
+                        <button class="btn btn-square btn-primary rounded-0">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                        <input type="text" class="form-control shadow-none rounded-0" value="1">
+                        <button class="btn btn-square btn-primary rounded-0">
+                            <i class="fas fa-plus"></i>
+                        </button>
+                    </div>
+                    <button class="btn btn-primary rounded-0 px-3">
+                        <i class="fas fa-shopping-cart" ></i>
+                        <a asp-action="AddToCart" asp-controller="GioHang" asp-route-id="@Model.MaSach " >  Add To Cart</a>
+                      
+                    </button>
+                </div>
+                <div class="d-flex pt-2">
+                    <strong class="text-dark me-2">Share on:</strong>
+                    <div class="d-inline-flex">
+                        <a href="#" class="text-dark px-2"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="text-dark px-2"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="text-dark px-2"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="text-dark px-2"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row px-xl-5">
+        <div class="col">
+            <div class="tab bg-light">
+                <div class="tab-navbar mb-4">
+                    <button class="tab-navbar__item active">Description</button>
+                    
+                </div>
+                <div class="tab-content">
+                    <div class="tab-content-item active" id="tab-pane-description">
+                        <h4 class="tab-content-item__heading mb-3">Product Description</h4>
+                        <p class="tab-content-item__content mb-3">
+                            @Model.MoTa
+                        </p>
+                        <p class="tab-content-item__content">
+                            Dolore magna est eirmod sanctus dolor, amet diam et eirmod et ipsum. Amet dolore tempor consetetur sed lorem dolor sit lorem tempor. Gubergren amet amet labore sadipscing clita clita diam clita. Sea amet et sed ipsum lorem elitr et, amet et labore voluptua sit rebum. Ea erat sed et diam takimata sed justo. Magna takimata justo et amet magna et.
+                        </p>
+                    </div>
+                  
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    

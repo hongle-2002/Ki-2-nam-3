@@ -1,0 +1,3193 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\KTWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KTWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about_2.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about_3.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\bia.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bia.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\coca.png",
+      "PackagePath": "staticwebassets\\assets\\images\\coca.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\fanta.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fanta.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\giala.png",
+      "PackagePath": "staticwebassets\\assets\\images\\giala.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\hoaqua.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hoaqua.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_5.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_6.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_7.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\masage.png",
+      "PackagePath": "staticwebassets\\assets\\images\\masage.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\images\\1001.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\images\\1002.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\images\\1003.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\images\\1004.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\images\\1005.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\images\\1006.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\images\\1007.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\images\\1008.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\images\\1009.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\images\\1010.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\images\\1011.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\images\\1012.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\images\\1013.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\images\\1014.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\images\\1015.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\images\\1016.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\images\\1017.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\images\\1018.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\images\\1019.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\images\\1020.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\images\\1021.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\images\\1022.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\images\\1023.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\images\\1024.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\images\\1025.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\images\\1026.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\images\\1027.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\images\\1028.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\images\\1029.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\images\\1030.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\images\\1031.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\images\\1032.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1033.jpeg",
+      "PackagePath": "staticwebassets\\images\\1033.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1034.jpeg",
+      "PackagePath": "staticwebassets\\images\\1034.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1035.jpeg",
+      "PackagePath": "staticwebassets\\images\\1035.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1036.jpeg",
+      "PackagePath": "staticwebassets\\images\\1036.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1037.jpeg",
+      "PackagePath": "staticwebassets\\images\\1037.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1038.jpeg",
+      "PackagePath": "staticwebassets\\images\\1038.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1039.jpeg",
+      "PackagePath": "staticwebassets\\images\\1039.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1040.jpeg",
+      "PackagePath": "staticwebassets\\images\\1040.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1041.jpeg",
+      "PackagePath": "staticwebassets\\images\\1041.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1042.jpeg",
+      "PackagePath": "staticwebassets\\images\\1042.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1043.jpeg",
+      "PackagePath": "staticwebassets\\images\\1043.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1044.jpeg",
+      "PackagePath": "staticwebassets\\images\\1044.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1045.jpeg",
+      "PackagePath": "staticwebassets\\images\\1045.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1046.jpeg",
+      "PackagePath": "staticwebassets\\images\\1046.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1047.jpeg",
+      "PackagePath": "staticwebassets\\images\\1047.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1048.jpeg",
+      "PackagePath": "staticwebassets\\images\\1048.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\images\\1049.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\images\\1050.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\images\\1051.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\images\\1052.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\images\\1053.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\images\\1054.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\images\\1055.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\images\\1056.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\images\\1057.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1058.jpeg",
+      "PackagePath": "staticwebassets\\images\\1058.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1059.jpeg",
+      "PackagePath": "staticwebassets\\images\\1059.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1060.jpeg",
+      "PackagePath": "staticwebassets\\images\\1060.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1061.jpeg",
+      "PackagePath": "staticwebassets\\images\\1061.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1062.jpeg",
+      "PackagePath": "staticwebassets\\images\\1062.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1063.jpeg",
+      "PackagePath": "staticwebassets\\images\\1063.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1064.jpeg",
+      "PackagePath": "staticwebassets\\images\\1064.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1065.jpeg",
+      "PackagePath": "staticwebassets\\images\\1065.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1066.jpeg",
+      "PackagePath": "staticwebassets\\images\\1066.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1067.jpeg",
+      "PackagePath": "staticwebassets\\images\\1067.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1068.jpeg",
+      "PackagePath": "staticwebassets\\images\\1068.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\images\\1069.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\images\\1070.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\images\\1071.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\images\\1072.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\images\\1073.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\images\\1074.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\images\\1075.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\images\\1076.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\images\\1077.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\images\\1078.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1079.jpeg",
+      "PackagePath": "staticwebassets\\images\\1079.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1080.jpeg",
+      "PackagePath": "staticwebassets\\images\\1080.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1081.jpeg",
+      "PackagePath": "staticwebassets\\images\\1081.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1082.jpeg",
+      "PackagePath": "staticwebassets\\images\\1082.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1083.jpeg",
+      "PackagePath": "staticwebassets\\images\\1083.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1084.jpeg",
+      "PackagePath": "staticwebassets\\images\\1084.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1085.jpeg",
+      "PackagePath": "staticwebassets\\images\\1085.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1086.jpeg",
+      "PackagePath": "staticwebassets\\images\\1086.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1087.jpeg",
+      "PackagePath": "staticwebassets\\images\\1087.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\images\\1088.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\images\\1089.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\images\\1090.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\images\\1091.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\images\\1092.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\images\\1093.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\images\\1094.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\images\\1095.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\images\\1096.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\images\\1097.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\images\\1098.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1099.jpeg",
+      "PackagePath": "staticwebassets\\images\\1099.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1100.jpeg",
+      "PackagePath": "staticwebassets\\images\\1100.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1101.jpeg",
+      "PackagePath": "staticwebassets\\images\\1101.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1102.jpeg",
+      "PackagePath": "staticwebassets\\images\\1102.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1103.jpeg",
+      "PackagePath": "staticwebassets\\images\\1103.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1104.jpeg",
+      "PackagePath": "staticwebassets\\images\\1104.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1105.jpeg",
+      "PackagePath": "staticwebassets\\images\\1105.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1106.jpeg",
+      "PackagePath": "staticwebassets\\images\\1106.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1107.jpeg",
+      "PackagePath": "staticwebassets\\images\\1107.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1108.jpeg",
+      "PackagePath": "staticwebassets\\images\\1108.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\images\\1109.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\images\\1110.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\images\\1111.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\images\\1112.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\images\\1113.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\images\\1114.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\images\\1115.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\images\\1116.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\images\\1117.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\images\\1118.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1119.jpeg",
+      "PackagePath": "staticwebassets\\images\\1119.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1120.jpeg",
+      "PackagePath": "staticwebassets\\images\\1120.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1121.jpeg",
+      "PackagePath": "staticwebassets\\images\\1121.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1122.jpeg",
+      "PackagePath": "staticwebassets\\images\\1122.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1123.jpeg",
+      "PackagePath": "staticwebassets\\images\\1123.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1124.jpeg",
+      "PackagePath": "staticwebassets\\images\\1124.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1125.jpeg",
+      "PackagePath": "staticwebassets\\images\\1125.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1126.jpeg",
+      "PackagePath": "staticwebassets\\images\\1126.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1127.jpeg",
+      "PackagePath": "staticwebassets\\images\\1127.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1128.jpeg",
+      "PackagePath": "staticwebassets\\images\\1128.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1129.jpeg",
+      "PackagePath": "staticwebassets\\images\\1129.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1130.jpeg",
+      "PackagePath": "staticwebassets\\images\\1130.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1131.jpeg",
+      "PackagePath": "staticwebassets\\images\\1131.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\images\\1132.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\images\\1133.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\images\\1134.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\images\\1135.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\images\\1136.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\images\\1137.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\images\\1138.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\images\\1139.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\images\\1140.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\images\\1141.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\images\\1142.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\images\\1143.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\images\\1144.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\images\\1145.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1146.jpeg",
+      "PackagePath": "staticwebassets\\images\\1146.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1147.jpeg",
+      "PackagePath": "staticwebassets\\images\\1147.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1148.jpeg",
+      "PackagePath": "staticwebassets\\images\\1148.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1149.jpeg",
+      "PackagePath": "staticwebassets\\images\\1149.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1150.jpeg",
+      "PackagePath": "staticwebassets\\images\\1150.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\images\\1151.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\images\\1152.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\images\\1153.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\images\\1154.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\images\\1155.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\images\\1156.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\images\\1157.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\images\\1158.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\images\\1159.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\images\\1160.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\images\\1161.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\images\\1162.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\images\\1163.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\images\\1164.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\images\\1165.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\images\\1166.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\images\\1167.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\images\\1168.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\images\\1169.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\images\\1170.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\images\\1171.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\images\\1172.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\images\\1173.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1174.jpeg",
+      "PackagePath": "staticwebassets\\images\\1174.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\images\\1175.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1176.jpeg",
+      "PackagePath": "staticwebassets\\images\\1176.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1177.jpeg",
+      "PackagePath": "staticwebassets\\images\\1177.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1178.jpeg",
+      "PackagePath": "staticwebassets\\images\\1178.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1179.jpeg",
+      "PackagePath": "staticwebassets\\images\\1179.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1180.jpeg",
+      "PackagePath": "staticwebassets\\images\\1180.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1181.jpeg",
+      "PackagePath": "staticwebassets\\images\\1181.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1182.jpeg",
+      "PackagePath": "staticwebassets\\images\\1182.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1183.jpeg",
+      "PackagePath": "staticwebassets\\images\\1183.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1184.jpeg",
+      "PackagePath": "staticwebassets\\images\\1184.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1185.jpeg",
+      "PackagePath": "staticwebassets\\images\\1185.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1186.jpeg",
+      "PackagePath": "staticwebassets\\images\\1186.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1187.jpeg",
+      "PackagePath": "staticwebassets\\images\\1187.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1188.jpeg",
+      "PackagePath": "staticwebassets\\images\\1188.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1189.jpeg",
+      "PackagePath": "staticwebassets\\images\\1189.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1190.jpeg",
+      "PackagePath": "staticwebassets\\images\\1190.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1191.jpeg",
+      "PackagePath": "staticwebassets\\images\\1191.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1192.jpeg",
+      "PackagePath": "staticwebassets\\images\\1192.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1193.jpeg",
+      "PackagePath": "staticwebassets\\images\\1193.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1194.jpeg",
+      "PackagePath": "staticwebassets\\images\\1194.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1195.jpeg",
+      "PackagePath": "staticwebassets\\images\\1195.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1196.jpeg",
+      "PackagePath": "staticwebassets\\images\\1196.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1197.jpeg",
+      "PackagePath": "staticwebassets\\images\\1197.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1198.jpeg",
+      "PackagePath": "staticwebassets\\images\\1198.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1199.jpeg",
+      "PackagePath": "staticwebassets\\images\\1199.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1200.jpeg",
+      "PackagePath": "staticwebassets\\images\\1200.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1201.jpeg",
+      "PackagePath": "staticwebassets\\images\\1201.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1202.jpeg",
+      "PackagePath": "staticwebassets\\images\\1202.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1203.jpeg",
+      "PackagePath": "staticwebassets\\images\\1203.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1204.jpeg",
+      "PackagePath": "staticwebassets\\images\\1204.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1205.jpeg",
+      "PackagePath": "staticwebassets\\images\\1205.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1206.jpeg",
+      "PackagePath": "staticwebassets\\images\\1206.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1207.jpeg",
+      "PackagePath": "staticwebassets\\images\\1207.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1208.jpeg",
+      "PackagePath": "staticwebassets\\images\\1208.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1209.jpeg",
+      "PackagePath": "staticwebassets\\images\\1209.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1210.jpeg",
+      "PackagePath": "staticwebassets\\images\\1210.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1211.jpeg",
+      "PackagePath": "staticwebassets\\images\\1211.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1212.jpeg",
+      "PackagePath": "staticwebassets\\images\\1212.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1213.jpeg",
+      "PackagePath": "staticwebassets\\images\\1213.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1214.jpeg",
+      "PackagePath": "staticwebassets\\images\\1214.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1215.jpeg",
+      "PackagePath": "staticwebassets\\images\\1215.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1216.jpeg",
+      "PackagePath": "staticwebassets\\images\\1216.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1217.jpeg",
+      "PackagePath": "staticwebassets\\images\\1217.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1218.jpeg",
+      "PackagePath": "staticwebassets\\images\\1218.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1219.jpeg",
+      "PackagePath": "staticwebassets\\images\\1219.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1220.jpeg",
+      "PackagePath": "staticwebassets\\images\\1220.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1221.jpeg",
+      "PackagePath": "staticwebassets\\images\\1221.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1222.jpeg",
+      "PackagePath": "staticwebassets\\images\\1222.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1223.jpeg",
+      "PackagePath": "staticwebassets\\images\\1223.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1224.jpeg",
+      "PackagePath": "staticwebassets\\images\\1224.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1225.jpeg",
+      "PackagePath": "staticwebassets\\images\\1225.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1226.jpeg",
+      "PackagePath": "staticwebassets\\images\\1226.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1227.jpeg",
+      "PackagePath": "staticwebassets\\images\\1227.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1228.jpeg",
+      "PackagePath": "staticwebassets\\images\\1228.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1229.jpeg",
+      "PackagePath": "staticwebassets\\images\\1229.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1230.jpeg",
+      "PackagePath": "staticwebassets\\images\\1230.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1231.jpeg",
+      "PackagePath": "staticwebassets\\images\\1231.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1232.jpeg",
+      "PackagePath": "staticwebassets\\images\\1232.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1233.jpeg",
+      "PackagePath": "staticwebassets\\images\\1233.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1234.jpeg",
+      "PackagePath": "staticwebassets\\images\\1234.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1235.jpeg",
+      "PackagePath": "staticwebassets\\images\\1235.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1236.jpeg",
+      "PackagePath": "staticwebassets\\images\\1236.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1237.jpeg",
+      "PackagePath": "staticwebassets\\images\\1237.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1238.jpeg",
+      "PackagePath": "staticwebassets\\images\\1238.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1239.jpeg",
+      "PackagePath": "staticwebassets\\images\\1239.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1240.jpeg",
+      "PackagePath": "staticwebassets\\images\\1240.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1241.jpeg",
+      "PackagePath": "staticwebassets\\images\\1241.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1242.jpeg",
+      "PackagePath": "staticwebassets\\images\\1242.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1243.jpeg",
+      "PackagePath": "staticwebassets\\images\\1243.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1244.jpeg",
+      "PackagePath": "staticwebassets\\images\\1244.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1245.jpeg",
+      "PackagePath": "staticwebassets\\images\\1245.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1246.jpeg",
+      "PackagePath": "staticwebassets\\images\\1246.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1247.jpeg",
+      "PackagePath": "staticwebassets\\images\\1247.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1248.jpeg",
+      "PackagePath": "staticwebassets\\images\\1248.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1249.jpeg",
+      "PackagePath": "staticwebassets\\images\\1249.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1250.jpeg",
+      "PackagePath": "staticwebassets\\images\\1250.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1251.jpeg",
+      "PackagePath": "staticwebassets\\images\\1251.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1252.jpeg",
+      "PackagePath": "staticwebassets\\images\\1252.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1253.jpeg",
+      "PackagePath": "staticwebassets\\images\\1253.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1254.jpeg",
+      "PackagePath": "staticwebassets\\images\\1254.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1255.jpeg",
+      "PackagePath": "staticwebassets\\images\\1255.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1256.jpeg",
+      "PackagePath": "staticwebassets\\images\\1256.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1257.jpeg",
+      "PackagePath": "staticwebassets\\images\\1257.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1258.jpeg",
+      "PackagePath": "staticwebassets\\images\\1258.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1259.jpeg",
+      "PackagePath": "staticwebassets\\images\\1259.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1260.jpeg",
+      "PackagePath": "staticwebassets\\images\\1260.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1261.jpeg",
+      "PackagePath": "staticwebassets\\images\\1261.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1262.jpeg",
+      "PackagePath": "staticwebassets\\images\\1262.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1263.jpeg",
+      "PackagePath": "staticwebassets\\images\\1263.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1264.jpeg",
+      "PackagePath": "staticwebassets\\images\\1264.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1265.jpeg",
+      "PackagePath": "staticwebassets\\images\\1265.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1266.jpeg",
+      "PackagePath": "staticwebassets\\images\\1266.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1267.jpeg",
+      "PackagePath": "staticwebassets\\images\\1267.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1268.jpeg",
+      "PackagePath": "staticwebassets\\images\\1268.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1269.jpeg",
+      "PackagePath": "staticwebassets\\images\\1269.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1270.jpeg",
+      "PackagePath": "staticwebassets\\images\\1270.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1271.jpeg",
+      "PackagePath": "staticwebassets\\images\\1271.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1272.jpeg",
+      "PackagePath": "staticwebassets\\images\\1272.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1273.jpeg",
+      "PackagePath": "staticwebassets\\images\\1273.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1274.jpeg",
+      "PackagePath": "staticwebassets\\images\\1274.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1275.jpeg",
+      "PackagePath": "staticwebassets\\images\\1275.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1276.jpeg",
+      "PackagePath": "staticwebassets\\images\\1276.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1277.jpeg",
+      "PackagePath": "staticwebassets\\images\\1277.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1278.jpeg",
+      "PackagePath": "staticwebassets\\images\\1278.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1279.jpeg",
+      "PackagePath": "staticwebassets\\images\\1279.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1280.jpeg",
+      "PackagePath": "staticwebassets\\images\\1280.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1281.jpeg",
+      "PackagePath": "staticwebassets\\images\\1281.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1282.jpeg",
+      "PackagePath": "staticwebassets\\images\\1282.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1283.jpeg",
+      "PackagePath": "staticwebassets\\images\\1283.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1284.jpeg",
+      "PackagePath": "staticwebassets\\images\\1284.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1285.jpeg",
+      "PackagePath": "staticwebassets\\images\\1285.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1286.jpeg",
+      "PackagePath": "staticwebassets\\images\\1286.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1287.jpeg",
+      "PackagePath": "staticwebassets\\images\\1287.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1288.jpeg",
+      "PackagePath": "staticwebassets\\images\\1288.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1289.jpeg",
+      "PackagePath": "staticwebassets\\images\\1289.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1290.jpeg",
+      "PackagePath": "staticwebassets\\images\\1290.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1291.jpeg",
+      "PackagePath": "staticwebassets\\images\\1291.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1292.jpeg",
+      "PackagePath": "staticwebassets\\images\\1292.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1293.jpeg",
+      "PackagePath": "staticwebassets\\images\\1293.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1294.jpeg",
+      "PackagePath": "staticwebassets\\images\\1294.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1295.jpeg",
+      "PackagePath": "staticwebassets\\images\\1295.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1296.jpeg",
+      "PackagePath": "staticwebassets\\images\\1296.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1297.jpeg",
+      "PackagePath": "staticwebassets\\images\\1297.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1298.jpeg",
+      "PackagePath": "staticwebassets\\images\\1298.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1299.jpeg",
+      "PackagePath": "staticwebassets\\images\\1299.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1300.jpeg",
+      "PackagePath": "staticwebassets\\images\\1300.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1301.jpeg",
+      "PackagePath": "staticwebassets\\images\\1301.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1302.jpeg",
+      "PackagePath": "staticwebassets\\images\\1302.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1303.jpeg",
+      "PackagePath": "staticwebassets\\images\\1303.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1304.jpeg",
+      "PackagePath": "staticwebassets\\images\\1304.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1305.jpeg",
+      "PackagePath": "staticwebassets\\images\\1305.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1306.jpeg",
+      "PackagePath": "staticwebassets\\images\\1306.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1307.jpeg",
+      "PackagePath": "staticwebassets\\images\\1307.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1308.jpeg",
+      "PackagePath": "staticwebassets\\images\\1308.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1309.jpeg",
+      "PackagePath": "staticwebassets\\images\\1309.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1310.jpeg",
+      "PackagePath": "staticwebassets\\images\\1310.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1311.jpeg",
+      "PackagePath": "staticwebassets\\images\\1311.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1312.jpeg",
+      "PackagePath": "staticwebassets\\images\\1312.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1313.jpeg",
+      "PackagePath": "staticwebassets\\images\\1313.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1314.jpeg",
+      "PackagePath": "staticwebassets\\images\\1314.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1315.jpeg",
+      "PackagePath": "staticwebassets\\images\\1315.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1316.jpeg",
+      "PackagePath": "staticwebassets\\images\\1316.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1317.jpeg",
+      "PackagePath": "staticwebassets\\images\\1317.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1318.jpeg",
+      "PackagePath": "staticwebassets\\images\\1318.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1319.jpeg",
+      "PackagePath": "staticwebassets\\images\\1319.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1320.jpeg",
+      "PackagePath": "staticwebassets\\images\\1320.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1321.jpeg",
+      "PackagePath": "staticwebassets\\images\\1321.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1322.jpeg",
+      "PackagePath": "staticwebassets\\images\\1322.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1323.jpeg",
+      "PackagePath": "staticwebassets\\images\\1323.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1324.jpeg",
+      "PackagePath": "staticwebassets\\images\\1324.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1325.jpeg",
+      "PackagePath": "staticwebassets\\images\\1325.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1326.jpeg",
+      "PackagePath": "staticwebassets\\images\\1326.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1327.jpeg",
+      "PackagePath": "staticwebassets\\images\\1327.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1328.jpeg",
+      "PackagePath": "staticwebassets\\images\\1328.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1329.jpeg",
+      "PackagePath": "staticwebassets\\images\\1329.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1330.jpeg",
+      "PackagePath": "staticwebassets\\images\\1330.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1331.jpeg",
+      "PackagePath": "staticwebassets\\images\\1331.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1332.jpeg",
+      "PackagePath": "staticwebassets\\images\\1332.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1333.jpeg",
+      "PackagePath": "staticwebassets\\images\\1333.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1334.jpeg",
+      "PackagePath": "staticwebassets\\images\\1334.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1335.jpeg",
+      "PackagePath": "staticwebassets\\images\\1335.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1336.jpeg",
+      "PackagePath": "staticwebassets\\images\\1336.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1337.jpeg",
+      "PackagePath": "staticwebassets\\images\\1337.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1338.jpeg",
+      "PackagePath": "staticwebassets\\images\\1338.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1339.jpeg",
+      "PackagePath": "staticwebassets\\images\\1339.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1340.jpeg",
+      "PackagePath": "staticwebassets\\images\\1340.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1341.jpeg",
+      "PackagePath": "staticwebassets\\images\\1341.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1342.jpeg",
+      "PackagePath": "staticwebassets\\images\\1342.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1343.jpeg",
+      "PackagePath": "staticwebassets\\images\\1343.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1344.jpeg",
+      "PackagePath": "staticwebassets\\images\\1344.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1345.jpeg",
+      "PackagePath": "staticwebassets\\images\\1345.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1346.jpeg",
+      "PackagePath": "staticwebassets\\images\\1346.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1347.jpeg",
+      "PackagePath": "staticwebassets\\images\\1347.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1348.jpeg",
+      "PackagePath": "staticwebassets\\images\\1348.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1349.jpeg",
+      "PackagePath": "staticwebassets\\images\\1349.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1350.jpeg",
+      "PackagePath": "staticwebassets\\images\\1350.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1351.jpeg",
+      "PackagePath": "staticwebassets\\images\\1351.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1352.jpeg",
+      "PackagePath": "staticwebassets\\images\\1352.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1353.jpeg",
+      "PackagePath": "staticwebassets\\images\\1353.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1354.jpeg",
+      "PackagePath": "staticwebassets\\images\\1354.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1355.jpeg",
+      "PackagePath": "staticwebassets\\images\\1355.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1356.jpeg",
+      "PackagePath": "staticwebassets\\images\\1356.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1357.jpeg",
+      "PackagePath": "staticwebassets\\images\\1357.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1358.jpeg",
+      "PackagePath": "staticwebassets\\images\\1358.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1359.jpeg",
+      "PackagePath": "staticwebassets\\images\\1359.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1360.jpeg",
+      "PackagePath": "staticwebassets\\images\\1360.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1361.jpeg",
+      "PackagePath": "staticwebassets\\images\\1361.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1362.jpeg",
+      "PackagePath": "staticwebassets\\images\\1362.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1363.jpeg",
+      "PackagePath": "staticwebassets\\images\\1363.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1364.jpeg",
+      "PackagePath": "staticwebassets\\images\\1364.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1365.jpeg",
+      "PackagePath": "staticwebassets\\images\\1365.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1366.jpeg",
+      "PackagePath": "staticwebassets\\images\\1366.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1367.jpeg",
+      "PackagePath": "staticwebassets\\images\\1367.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1368.jpeg",
+      "PackagePath": "staticwebassets\\images\\1368.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1369.jpeg",
+      "PackagePath": "staticwebassets\\images\\1369.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1370.jpeg",
+      "PackagePath": "staticwebassets\\images\\1370.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1371.jpeg",
+      "PackagePath": "staticwebassets\\images\\1371.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1372.jpeg",
+      "PackagePath": "staticwebassets\\images\\1372.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1373.jpeg",
+      "PackagePath": "staticwebassets\\images\\1373.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1374.jpeg",
+      "PackagePath": "staticwebassets\\images\\1374.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1375.jpeg",
+      "PackagePath": "staticwebassets\\images\\1375.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1376.jpeg",
+      "PackagePath": "staticwebassets\\images\\1376.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1377.jpeg",
+      "PackagePath": "staticwebassets\\images\\1377.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1378.jpeg",
+      "PackagePath": "staticwebassets\\images\\1378.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1379.jpeg",
+      "PackagePath": "staticwebassets\\images\\1379.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1380.jpeg",
+      "PackagePath": "staticwebassets\\images\\1380.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1381.jpeg",
+      "PackagePath": "staticwebassets\\images\\1381.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1382.jpeg",
+      "PackagePath": "staticwebassets\\images\\1382.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1383.jpeg",
+      "PackagePath": "staticwebassets\\images\\1383.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1384.jpeg",
+      "PackagePath": "staticwebassets\\images\\1384.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1385.jpeg",
+      "PackagePath": "staticwebassets\\images\\1385.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1386.jpeg",
+      "PackagePath": "staticwebassets\\images\\1386.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1387.jpeg",
+      "PackagePath": "staticwebassets\\images\\1387.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1388.jpeg",
+      "PackagePath": "staticwebassets\\images\\1388.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1389.jpeg",
+      "PackagePath": "staticwebassets\\images\\1389.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1390.jpeg",
+      "PackagePath": "staticwebassets\\images\\1390.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1391.jpeg",
+      "PackagePath": "staticwebassets\\images\\1391.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1392.jpeg",
+      "PackagePath": "staticwebassets\\images\\1392.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1393.jpeg",
+      "PackagePath": "staticwebassets\\images\\1393.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1394.jpeg",
+      "PackagePath": "staticwebassets\\images\\1394.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1395.jpeg",
+      "PackagePath": "staticwebassets\\images\\1395.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1396.jpeg",
+      "PackagePath": "staticwebassets\\images\\1396.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1397.jpeg",
+      "PackagePath": "staticwebassets\\images\\1397.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1398.jpeg",
+      "PackagePath": "staticwebassets\\images\\1398.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1399.jpeg",
+      "PackagePath": "staticwebassets\\images\\1399.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1400.jpeg",
+      "PackagePath": "staticwebassets\\images\\1400.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1401.jpeg",
+      "PackagePath": "staticwebassets\\images\\1401.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1402.jpeg",
+      "PackagePath": "staticwebassets\\images\\1402.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1403.jpeg",
+      "PackagePath": "staticwebassets\\images\\1403.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1404.jpeg",
+      "PackagePath": "staticwebassets\\images\\1404.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1405.jpeg",
+      "PackagePath": "staticwebassets\\images\\1405.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1406.jpeg",
+      "PackagePath": "staticwebassets\\images\\1406.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1407.jpeg",
+      "PackagePath": "staticwebassets\\images\\1407.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1408.jpeg",
+      "PackagePath": "staticwebassets\\images\\1408.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1409.jpeg",
+      "PackagePath": "staticwebassets\\images\\1409.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1410.jpeg",
+      "PackagePath": "staticwebassets\\images\\1410.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1411.jpeg",
+      "PackagePath": "staticwebassets\\images\\1411.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1412.jpeg",
+      "PackagePath": "staticwebassets\\images\\1412.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1413.jpeg",
+      "PackagePath": "staticwebassets\\images\\1413.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1414.jpeg",
+      "PackagePath": "staticwebassets\\images\\1414.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1415.jpeg",
+      "PackagePath": "staticwebassets\\images\\1415.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1416.jpeg",
+      "PackagePath": "staticwebassets\\images\\1416.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1417.jpeg",
+      "PackagePath": "staticwebassets\\images\\1417.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1418.jpeg",
+      "PackagePath": "staticwebassets\\images\\1418.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1419.jpeg",
+      "PackagePath": "staticwebassets\\images\\1419.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1420.jpeg",
+      "PackagePath": "staticwebassets\\images\\1420.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1421.jpeg",
+      "PackagePath": "staticwebassets\\images\\1421.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1422.jpeg",
+      "PackagePath": "staticwebassets\\images\\1422.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1423.jpeg",
+      "PackagePath": "staticwebassets\\images\\1423.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1424.jpeg",
+      "PackagePath": "staticwebassets\\images\\1424.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1425.jpeg",
+      "PackagePath": "staticwebassets\\images\\1425.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1426.jpeg",
+      "PackagePath": "staticwebassets\\images\\1426.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1427.jpeg",
+      "PackagePath": "staticwebassets\\images\\1427.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1428.jpeg",
+      "PackagePath": "staticwebassets\\images\\1428.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1429.jpeg",
+      "PackagePath": "staticwebassets\\images\\1429.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1430.jpeg",
+      "PackagePath": "staticwebassets\\images\\1430.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1431.jpeg",
+      "PackagePath": "staticwebassets\\images\\1431.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1432.jpeg",
+      "PackagePath": "staticwebassets\\images\\1432.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1433.jpeg",
+      "PackagePath": "staticwebassets\\images\\1433.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1434.jpeg",
+      "PackagePath": "staticwebassets\\images\\1434.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1435.jpeg",
+      "PackagePath": "staticwebassets\\images\\1435.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1436.jpeg",
+      "PackagePath": "staticwebassets\\images\\1436.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1437.jpeg",
+      "PackagePath": "staticwebassets\\images\\1437.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1438.jpeg",
+      "PackagePath": "staticwebassets\\images\\1438.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1439.jpeg",
+      "PackagePath": "staticwebassets\\images\\1439.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1440.jpeg",
+      "PackagePath": "staticwebassets\\images\\1440.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1441.jpeg",
+      "PackagePath": "staticwebassets\\images\\1441.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1442.jpeg",
+      "PackagePath": "staticwebassets\\images\\1442.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1443.jpeg",
+      "PackagePath": "staticwebassets\\images\\1443.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1444.jpeg",
+      "PackagePath": "staticwebassets\\images\\1444.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1445.jpeg",
+      "PackagePath": "staticwebassets\\images\\1445.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1446.jpeg",
+      "PackagePath": "staticwebassets\\images\\1446.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1447.jpeg",
+      "PackagePath": "staticwebassets\\images\\1447.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1448.jpeg",
+      "PackagePath": "staticwebassets\\images\\1448.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1449.jpeg",
+      "PackagePath": "staticwebassets\\images\\1449.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1450.jpeg",
+      "PackagePath": "staticwebassets\\images\\1450.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1451.jpeg",
+      "PackagePath": "staticwebassets\\images\\1451.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1452.jpeg",
+      "PackagePath": "staticwebassets\\images\\1452.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1453.jpeg",
+      "PackagePath": "staticwebassets\\images\\1453.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1454.jpeg",
+      "PackagePath": "staticwebassets\\images\\1454.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1455.jpeg",
+      "PackagePath": "staticwebassets\\images\\1455.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1456.jpeg",
+      "PackagePath": "staticwebassets\\images\\1456.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1457.jpeg",
+      "PackagePath": "staticwebassets\\images\\1457.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1458.jpeg",
+      "PackagePath": "staticwebassets\\images\\1458.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\1459.jpeg",
+      "PackagePath": "staticwebassets\\images\\1459.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\images\\5001.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\images\\5002.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\images\\5003.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\images\\5004.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\images\\5005.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\images\\5006.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\images\\5007.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\images\\5008.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\images\\5009.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\images\\5010.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\images\\5011.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\images\\5012.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\images\\5013.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\images\\5014.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\images\\5015.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\images\\5016.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5017.jpeg",
+      "PackagePath": "staticwebassets\\images\\5017.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\images\\5018.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\images\\5019.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\images\\5020.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\images\\5021.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\images\\5022.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\images\\5023.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\images\\5024.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\images\\5025.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\images\\5026.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5027.jpeg",
+      "PackagePath": "staticwebassets\\images\\5027.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\images\\5028.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\images\\5029.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\images\\5030.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5031.jpeg",
+      "PackagePath": "staticwebassets\\images\\5031.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5032.jpeg",
+      "PackagePath": "staticwebassets\\images\\5032.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5033.jpeg",
+      "PackagePath": "staticwebassets\\images\\5033.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5034.jpeg",
+      "PackagePath": "staticwebassets\\images\\5034.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5035.jpeg",
+      "PackagePath": "staticwebassets\\images\\5035.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5036.jpeg",
+      "PackagePath": "staticwebassets\\images\\5036.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5037.jpeg",
+      "PackagePath": "staticwebassets\\images\\5037.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5038.jpeg",
+      "PackagePath": "staticwebassets\\images\\5038.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5039.jpeg",
+      "PackagePath": "staticwebassets\\images\\5039.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5040.jpeg",
+      "PackagePath": "staticwebassets\\images\\5040.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5041.jpeg",
+      "PackagePath": "staticwebassets\\images\\5041.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5042.jpeg",
+      "PackagePath": "staticwebassets\\images\\5042.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5043.jpeg",
+      "PackagePath": "staticwebassets\\images\\5043.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5044.jpeg",
+      "PackagePath": "staticwebassets\\images\\5044.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5045.jpeg",
+      "PackagePath": "staticwebassets\\images\\5045.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5046.jpeg",
+      "PackagePath": "staticwebassets\\images\\5046.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5047.jpeg",
+      "PackagePath": "staticwebassets\\images\\5047.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5048.jpeg",
+      "PackagePath": "staticwebassets\\images\\5048.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5049.jpeg",
+      "PackagePath": "staticwebassets\\images\\5049.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5050.jpeg",
+      "PackagePath": "staticwebassets\\images\\5050.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5051.jpeg",
+      "PackagePath": "staticwebassets\\images\\5051.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5052.jpeg",
+      "PackagePath": "staticwebassets\\images\\5052.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5053.jpeg",
+      "PackagePath": "staticwebassets\\images\\5053.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5054.jpeg",
+      "PackagePath": "staticwebassets\\images\\5054.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5055.jpeg",
+      "PackagePath": "staticwebassets\\images\\5055.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5056.jpeg",
+      "PackagePath": "staticwebassets\\images\\5056.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5057.jpeg",
+      "PackagePath": "staticwebassets\\images\\5057.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5058.jpeg",
+      "PackagePath": "staticwebassets\\images\\5058.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5059.jpeg",
+      "PackagePath": "staticwebassets\\images\\5059.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5060.jpeg",
+      "PackagePath": "staticwebassets\\images\\5060.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5061.jpeg",
+      "PackagePath": "staticwebassets\\images\\5061.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5062.jpeg",
+      "PackagePath": "staticwebassets\\images\\5062.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5063.jpeg",
+      "PackagePath": "staticwebassets\\images\\5063.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5064.jpeg",
+      "PackagePath": "staticwebassets\\images\\5064.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5065.jpeg",
+      "PackagePath": "staticwebassets\\images\\5065.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5066.jpeg",
+      "PackagePath": "staticwebassets\\images\\5066.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5067.jpeg",
+      "PackagePath": "staticwebassets\\images\\5067.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5068.jpeg",
+      "PackagePath": "staticwebassets\\images\\5068.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5069.jpeg",
+      "PackagePath": "staticwebassets\\images\\5069.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5070.jpeg",
+      "PackagePath": "staticwebassets\\images\\5070.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5071.jpeg",
+      "PackagePath": "staticwebassets\\images\\5071.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5072.jpeg",
+      "PackagePath": "staticwebassets\\images\\5072.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5073.jpeg",
+      "PackagePath": "staticwebassets\\images\\5073.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5074.jpeg",
+      "PackagePath": "staticwebassets\\images\\5074.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5075.jpeg",
+      "PackagePath": "staticwebassets\\images\\5075.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5076.jpeg",
+      "PackagePath": "staticwebassets\\images\\5076.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5077.jpeg",
+      "PackagePath": "staticwebassets\\images\\5077.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5078.jpeg",
+      "PackagePath": "staticwebassets\\images\\5078.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5079.jpeg",
+      "PackagePath": "staticwebassets\\images\\5079.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5080.jpeg",
+      "PackagePath": "staticwebassets\\images\\5080.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5081.jpeg",
+      "PackagePath": "staticwebassets\\images\\5081.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5082.jpeg",
+      "PackagePath": "staticwebassets\\images\\5082.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5083.jpeg",
+      "PackagePath": "staticwebassets\\images\\5083.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5084.jpeg",
+      "PackagePath": "staticwebassets\\images\\5084.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5085.jpeg",
+      "PackagePath": "staticwebassets\\images\\5085.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5086.jpeg",
+      "PackagePath": "staticwebassets\\images\\5086.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5087.jpeg",
+      "PackagePath": "staticwebassets\\images\\5087.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5088.jpeg",
+      "PackagePath": "staticwebassets\\images\\5088.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5090.jpeg",
+      "PackagePath": "staticwebassets\\images\\5090.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5091.jpeg",
+      "PackagePath": "staticwebassets\\images\\5091.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5092.jpeg",
+      "PackagePath": "staticwebassets\\images\\5092.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\5098.jpeg",
+      "PackagePath": "staticwebassets\\images\\5098.jpeg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\images\\STD01.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\images\\STD02.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\images\\STD03.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\images\\STD04.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\images\\STD05.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\images\\STD06.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\images\\STD07.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\images\\STD08.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\images\\STD09.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\images\\STD10.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\images\\STD11.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\images\\STD12.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\images\\STD13.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\images\\STD14.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\images\\STD15.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\images\\STD16.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\images\\STD17.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\images\\STD18.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\images\\STD19.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\images\\STD20.jpg"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Tai_lieu_dai_hoc\\Nam_3\\Ki_2\\LTW\\Code\\KTL2\\KTWeb\\KTWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.KTWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.KTWeb.props",
+      "PackagePath": "build\\KTWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.KTWeb.props",
+      "PackagePath": "buildMultiTargeting\\KTWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.KTWeb.props",
+      "PackagePath": "buildTransitive\\KTWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

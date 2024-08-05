@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses">
+  <DataContextMoniker Name="/DataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a075fd5c-eb97-4809-8c49-71e0487a79a7" absoluteBounds="1.25, 1.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClassesDataContext/TRUYEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="132ca209-4490-42d2-a15d-1d2601b71155" absoluteBounds="1.2650000000000001, 1.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fcad69e5-a915-4bc7-b4bc-8c45b5476248" absoluteBounds="4.5, 1.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClassesDataContext/THELOAI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="93814b52-e98d-43f7-8549-1f84eff51b45" absoluteBounds="4.515, 2.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 2.66429768880208); (3.25 : 2.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/THELOAI/THELOAI_TRUYEN" />
+      <nodes>
+        <classShapeMoniker Id="fcad69e5-a915-4bc7-b4bc-8c45b5476248" />
+        <classShapeMoniker Id="a075fd5c-eb97-4809-8c49-71e0487a79a7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

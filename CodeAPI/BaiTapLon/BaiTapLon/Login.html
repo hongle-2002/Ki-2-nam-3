@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Assets/style.css">
+    <link rel="stylesheet" href="Assets/themify-icons-font/themify-icons/themify-icons.css">
+    <!--<script src="Scripts/login.js"></script>-->
+    <title>login</title>
+</head>
+<body>
+    <div class="container">
+        <div class="form-box">
+            <div class="button-box">
+                <div id="btn"></div>
+                <button type="button" class="toggle-btn" onclick="login()">Login</button>
+                <button type="button" class="toggle-btn" onclick="register()">Register</button>
+            </div>
+            <div class="social-icons">
+                <i class="ti-facebook"></i>
+                <i class="ti-twitter"></i>
+                <i class="ti-google"></i>
+            </div>
+            <form id="login" class="input-group">
+                <input type="text" class="input-field" placeholder="User Id" id="txtUserName" required>
+                <input type="password" class="input-field" placeholder="Enter Password" id="txtPassWord" required>
+                <input type="checkbox" class="check-box"><span>Remember Password</span>
+                <button type="submit" class="submit-btn">Log in</button>
+            </form>
+            <form id="register" class="input-group">
+                <!--<div class="form-group">
+                    <label for="author">So trang</label>
+                    <input type="text" class="form-control" id="sotrang">
+                </div>
+
+
+                <div class="form-group">
+                    <label for="author">Trong luong</label>
+                    <input type="text" class="form-control" id="trongluong">
+                </div>-->
+                <input type="text" class="input-field" placeholder="User Id" id="userName" required>
+                <input type="password" class="input-field" placeholder="Enter Password" id="passWord" required>
+                <input type="checkbox" class="check-box"><span>I agree to the terms & conditions</span>
+                <button type="button" class="submit-btn" onclick="AddUser()">Register</button>
+            </form>
+        </div>
+
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        var x = document.getElementById("login");
+        var y = document.getElementById("register");
+        var z = document.getElementById("btn");
+
+        function register() {
+            x.style.left = "-400px";
+            y.style.left = "50px";
+            z.style.left = "110px";
+        }
+        function login() {
+            x.style.left = "50px";
+            y.style.left = "450px";
+            z.style.left = "0";
+        }
+
+        $(document).ready(function () {
+            // Intercept the form submission event
+            $('#login').submit(function (event) {
+                event.preventDefault(); // Prevent the form from submitting normally
+
+                // Get the username and password from the form
+                var username = $('#txtUserName').val();
+                var password = $('#txtPassWord').val();
+
+                // Send an AJAX request to the server
+                $.ajax({
+                    url: 'https://localhost:44385/api/user?tk=' + username + '&mk=' + password,
+                    method: 'POST',
+                    contentType: 'json',
+                    dataType: 'json',
+                    success: function (response) {
+                        if (response == true) {
+                            alert("Đăng nhập thành công!")
+
+                            window.location.href = "Index.html";
+                        } else {
+                            alert("Sai mật khẩu hoặc tên ")
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        // Display an error message
+                        alert("Login failed. Please check your username and password.");
+                    }
+                });
+            });
+        });
+     /*   $(document).ready(function () {
+            // Intercept the form submission event
+            $('#register').submit(function (event) {
+                event.preventDefault(); // Prevent the form from submitting normally
+
+                // Get the username and password from the form
+                var userName = $('#userName').val();
+                var passWord = $('#passWord').val();
+
+                // Send an AJAX request to the server
+                $.ajax({
+                    url: 'https://localhost:44385/api/user',
+                    type: 'POST',
+                    data: {
+                        taikhoan: userName,
+                        matkhau: passWord
+                    },
+                    success: function (response) {
+                        // Display a success message
+                        alert("Register successful")
+
+                        window.location.href = "Index.html";
+                    },
+                    error: function (xhr, status, error) {
+                        // Display an error message
+                        alert("Register failed. Please check your username and password.");
+                    }
+                });
+            });
+        });*/
+        function CheckInput() {
+            if ($("#userName").val() == "" || $("#passWord").val() == "") {
+                return false;
+            }
+            return true;
+        }
+        function clearInput() {
+            document.getElementById("userName").disabled = false;
+            $("#userName").val(""),
+                $("#passWord").val("")
+
+        }
+        let url = 'https://localhost:44385/api';
+        //thêm user
+        function AddUser() {
+            if (!CheckInput()) {
+                alert("Hãy nhập đầy đủ thông tin!");
+                return;
+            }
+            var code = $("#userName").val();
+            // Kiểm tra xem mã nsx đã tồn tại hay chưa
+            $.ajax({
+                url: url + "/user/" + code,
+                method: "GET",
+                contentType: 'application/json',
+                dataType: 'json',
+                success: function (res) {
+                  /*  if (res != null) {
+                        alert("Ten user đã tồn tại!");
+                        return;
+                    }*/
+
+                    // Thêm nsx mới
+                    $.ajax({
+                        url: url + "/user",
+                        method: "POST",
+                        data: JSON.stringify({
+                            "TaiKhoan": code,
+                            "MatKhau": $("#passWord").val()
+
+                        }),
+                        contentType: 'application/json',
+                        dataType: 'json',
+                        error: function (res) {
+                            alert("Thêm mới không thành công!");
+                        },
+                        success: function (res) {
+                            alert("Thêm mới thành công!");
+                          
+                            // xóa dữ liệu trên các ô vừa điền sau khi thêm mới thành công
+                            clearInput();
+                        }
+                    });
+                },
+                error: function (res) {
+                    alert("Có lỗi xảy ra khi kiểm tra username!");
+                }
+            });
+        }
+
+
+
+
+
+       
+    </script>
+</body>
+</html>

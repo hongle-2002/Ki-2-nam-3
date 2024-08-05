@@ -1,0 +1,98 @@
+﻿@using BaoCao.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<Sach>
+
+
+
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Danh Mục Các Sản Phẩm </h2>
+
+<p>
+    <a asp-action="ThemSanPhamMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+               Tên sách
+            </th>
+            <th>
+               Tác giả
+            </th>
+            <th>
+                Mô tả 
+            </th>
+           
+      
+          
+            <th>
+               Khối lượng 
+            </th>
+           
+            <th>
+                Giá
+            </th>
+          
+            <th>
+               Số lượng 
+            </th>
+           
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+
+        }
+         @foreach (var item in Model) {
+            i = i + 1;
+            string @cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+          <tr class="@cls table-bordered">
+            <td >
+                @Html.DisplayFor(modelItem => item.TenSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+         
+            <td>
+                @Html.DisplayFor(modelItem => item.KhoiLuong)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+           
+           
+            <td>
+                <a asp-action="SuaSanPham" asp-route-maSanPham="@item.MaSach">Edit</a> |
+@*                <a asp-action="Details" asp-route-id="@item.MaSach">Details</a> |
+*@                <a asp-action="XoaSanPham" asp-route-maSanPham="@item.MaSach">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model,page=>Url.Action("DanhMucSanPham", new {page = page}), new
+X.PagedList.Web.Common.PagedListRenderOptions(){
+    LiElementClasses = new List<String> {"page-item"},
+    PageClasses = new List<String> {"page-link"}
+})

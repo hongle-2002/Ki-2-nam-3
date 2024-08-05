@@ -1,0 +1,253 @@
+﻿
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Quan ly Sach</title>
+    <link rel="shortcut icon" href="#">
+    <style>
+        h1 {
+            font-size: 40px;
+            font-weight: bold;
+            color: red;
+        }
+
+        #pagination ul {
+            list-style: none;
+            display: flex;
+        }
+
+        #pagination .paginationjs-page,
+        #pagination .paginationjs-ellipsics,
+        #pagination .paginationjs-prev,
+        #pagination .paginationjs-next {
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        label {
+            font-size: 18px;
+            font-weight: bold;
+            color: black;
+        }
+
+        #content {
+            background-color: #a1def5;
+        }
+
+        input, textarea, select {
+            font-weight: bold;
+        }
+    </style>
+
+
+
+    <link type="text/css" href="../qls/css/main.css" rel="stylesheet" />
+    <script type="text/javascript" src="../qls/js/jquery_min.js"></script>
+    <script type="text/javascript" src="../qls/js/danhmuc.js"></script>
+
+
+
+
+
+</head>
+
+<body>
+    <!--HEADER-->
+    <div class="header">
+        <a href="Index.html" title="Quản lý sách" style="outline:none;"><h1>QUẢN LÝ SÁCH</h1></a>
+        <div class="logout">
+            Xin chào <b>Mọi người</b> | <a href="Login.html" title="Log out">Log out</a>
+        </div>
+        <!--NAVIGATION BAR-->
+        <ul class="navigation">
+            <a href="Index.html" title="Danh mục sản phẩm">
+            <li>Danh mục sản phẩm</li></a>
+            <a href="theloai.html" title="Quản lý thể loại">
+            <li>Quản lý thể loại</li></a>
+            <a href="NXB.html" title="Quản lý nhà xuất bản">
+            <li>Quản lý xuất bản</li></a>
+           
+        </ul><!--NAVIGATION BAR-->
+    </div><!--END HEADER-->
+    <!--CONTENT-->
+
+    <div id="content" class="border border-info" style="margin-top:5px;display:none;">
+        <div class="row">
+            <div class="col-5" style="left: 5px;">
+                <form>
+                    <div class="form-group">
+                        <label for="code">Mã Sach</label>
+                        <input type="text" class="form-control" id="id">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Tên Sach</label>
+                        <input type="text" class="form-control" id="tensach">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Tac Gia</label>
+                        <input type="text" class="form-control" id="tacgia">
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="bookTypeSelect">Ma The Loai</label>
+
+                            <select class="form-control" id="matheloai"></select>
+                        </div>
+                        <div class="col-6">
+                            <label for="bookTypeSelect">Ma nxb</label>
+
+                            <select class="form-control" id="manxb"></select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="author">So Luong</label>
+                        <input type="text" class="form-control" id="soluong">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="author">So trang</label>
+                        <input type="text" class="form-control" id="sotrang">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="author">Trong luong</label>
+                        <input type="text" class="form-control" id="trongluong">
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <div style="margin:0px 10px 10px 10px">
+            <button type="button" class="btn btn-primary" onclick="insertSach()">Thêm Sach</button>
+            <button type="button" class="btn btn-primary" onclick="EditSach()">Sửa Sach</button>
+            <button type="button" class="btn btn-primary" onclick="AnContent()" style="float: right">Ẩn</button>
+        </div>
+
+    </div>
+    <div class="row" style="margin:10px 0px 10px 0px">
+        <div class="col-3">
+            <button type="button" class="btn btn-primary" onclick="HienContent(), clearInput()">Thêm mới</button>
+        </div>
+        <div class="col-5">
+            <form class="form-inline">
+                <select class="form-control mr-sm-2" aria-label="Search" id="chonloai">
+                    <option selected>--Chọn Loại--</option>
+                    <option value="masach">Mã Sach</option>
+                    <option value="tensach">Tên Sach</option>
+                    <option value="tentheloai"> Tên The Loai</option>
+                    <option value="tennxb">Tên Nhà Xuat Ban</option>
+                </select>
+                <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm" aria-label="Search" id="timkiem">
+                <button type="button" class="btn btn-primary" onclick="searchSach();">Tìm kiếm</button>
+            </form>
+        </div>
+        <div class="col-4">
+            <button type="button" class="btn btn-dark" onclick="clearInput(), GetAllSach()" style="float: right">Reset</button>
+        </div>
+    </div>
+
+    <!-- <div class="danhsach">
+         <table id="tblKhachHang" class="table table-striped table-bordered">
+             <thead>
+                 <tr>
+                     <th>Mã Sách</th>
+                     <th>Tên sách</th>
+                     <th>Tác giả</th>
+                     <th>Số trang</th>
+                     <th>Số lượng</th>
+                     <th>Mã thể loại</th>
+                     <th>Mã NXB</th>
+                     <th>Trọng lượng</th>
+                     <th>
+                         <a href="ThemSach.html" name="btnThemDanhMuc" id="btnThemDanhMuc" title="Thêm danh mục mới">+ Thêm mới</a>
+                     </th>
+
+                 </tr>
+
+             </thead>
+             <tbody id="allSach">
+             </tbody>
+         </table>
+     </div>-->
+    <div>
+        <table id="thuocchitiet" class="table table-striped table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>Mã Sách</th>
+                    <th>Tên sách</th>
+                    <th>Tác giả</th>
+                    <th>Số trang</th>
+                    <th>Số lượng</th>
+                    <th>Mã thể loại</th>
+                    <th>Mã NXB</th>
+                    <th>Trọng lượng</th>
+                    <th colspan="2">Hành động</th>
+                </tr>
+            </thead>
+            <tbody id="allSach"></tbody>
+        </table>
+    </div>
+    <!--END DANH SACH-->
+    <!--  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <button type="button" class="close" data-dissmiss="modal"><span aria-hidden="true">&times;</span></button>
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title" id="myModalLabel">Add Employee</h4>
+                  </div>
+                  <div class="modal-body">
+                      <form>
+                          <div class="form-group">
+                              <label for="EmployeeId">ID</label>
+                              <input type="text" class="form-control" id="EmployeeID" placeholder="Id" disabled="disabled" />
+                          </div>
+                          <div class="form-group">
+                              <label for="Name">Name</label>
+                              <input type="text" class="form-control" id="Name" placeholder="Name" />
+                          </div>
+                          <div class="form-group">
+                              <label for="Age">Age</label>
+                              <input type="text" class="form-control" id="Age" placeholder="Age" />
+                          </div>
+                          <div class="form-group">
+                              <label for="State">State</label>
+                              <input type="text" class="form-control" id="State" placeholder="State" />
+                          </div>
+                          <div class="form-group">
+                              <label for="Country">Country</label>
+                              <input type="text" class="form-control" id="Country" placeholder="Country" />
+                          </div>
+                      </form>
+                  </div>
+                  <div class="modal-footer">
+                      <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Adds</button>
+                      <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+              </div>
+          </div>
+      </div>-->
+    <!--END CONTENT-->
+    <!--FOOTER-->
+    <div class="footer">
+        <p><b>Bài tập lớn Lập Trình API</b></p>
+        <span style="line-height:18px;">
+            <b>Nhóm thực hiện:</b><br />
+            Nguyễn Việt Hồng - 201200143<br />
+            Lê Thúy Hồng - 201200142<br />
+
+        </span>
+    </div><!--END FOOTER-->
+    <script src="Scripts/sach.js"></script>
+</body>
+</html>

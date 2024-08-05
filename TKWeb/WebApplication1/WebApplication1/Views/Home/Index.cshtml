@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@using X.PagedList.Mvc.Core
+@model X.PagedList.PagedList<TDanhMucSp>
+@foreach (var item in Model)
+{
+
+	<div class="thumbnail">
+		<a href="product_details.html"><img src="themes/images/products/6.jpg" alt=""></a>
+		<div class="caption">
+			<h5>@item.TenSp</h5>
+			<p>
+				Lorem Ipsum is simply dummy text.
+			</p>
+
+			<h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">@item.GiaLonNhat</a></h4>
+		</div>
+	</div>
+
+
+}
+<div class="product__pagination">
+    @Html.PagedListPager(Model,page=>Url.Action("Index", new{page= page}))
+</div>

@@ -1,0 +1,2925 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuanLyThuoc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanLyThuoc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb.rar",
+      "PackagePath": "staticwebassets\\AnhWeb.rar"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\4.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\5.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\aloclair-plus-gel-alliance.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\aloclair-plus-gel-alliance.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\aloclair-plus-gel-alliance1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\aloclair-plus-gel-alliance1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\aloclair-plus-gel-alliance2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\aloclair-plus-gel-alliance2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\aloclair-plus-gel-alliance3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\aloclair-plus-gel-alliance3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-da-naga.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-da-naga.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-da-naga1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-da-naga1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-da-naga2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-da-naga2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-da-naga3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-da-naga3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-ngon-ngu-ngon.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-ngon-ngu-ngon.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-ngon-ngu-ngon1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-ngon-ngu-ngon1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-ngon-ngu-ngon2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-ngon-ngu-ngon2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\an-ngon-ngu-ngon3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\an-ngon-ngu-ngon3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bamogin.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bamogin.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bamogin1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bamogin1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bamogin2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bamogin2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bamogin3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bamogin3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ban-chai-danh-rang-dien.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ban-chai-danh-rang-dien.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ban-chai-danh-rang-dien1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ban-chai-danh-rang-dien1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ban-chai-danh-rang-dien2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ban-chai-danh-rang-dien2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ban-chai-danh-rang-dien3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ban-chai-danh-rang-dien3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bao-xuan.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bao-xuan.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bao-xuan1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bao-xuan1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bao-xuan2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bao-xuan2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bao-xuan3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bao-xuan3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\best-king-jpanwell.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\best-king-jpanwell.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\best-king-jpanwell1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\best-king-jpanwell1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\best-king-jpanwell2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\best-king-jpanwell2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\best-king-jpanwell3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\best-king-jpanwell3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bifido-plus-jpanwell.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bifido-plus-jpanwell.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bifido-plus-jpanwell1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bifido-plus-jpanwell1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bifido-plus-jpanwell2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bifido-plus-jpanwell2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\bifido-plus-jpanwell3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\bifido-plus-jpanwell3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\blood-pressure.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\blood-pressure.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\blood-pressure1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\blood-pressure1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\blood-pressure2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\blood-pressure2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\blood-pressure3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\blood-pressure3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\blood-pressure4.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\blood-pressure4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\brightening-cleansing-milk.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\brightening-cleansing-milk.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\brightening-cleansing-milk1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\brightening-cleansing-milk1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\brightening-cleansing-milk2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\brightening-cleansing-milk2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\brightening-cleansing-milk3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\brightening-cleansing-milk3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\chamsoccothe.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\chamsoccothe.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\chamsocdamat.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\chamsocdamat.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\chamsocrangmieng.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\chamsocrangmieng.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\chamsoctoc.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\chamsoctoc.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholessen.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholessen.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholessen1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholessen1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholessen2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholessen2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholessen3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholessen3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholesterol-aid.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholesterol-aid.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholesterol-aid1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholesterol-aid1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholesterol-aid2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholesterol-aid2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\cholesterol-aid3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\cholesterol-aid3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\coq10.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\coq10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\coq101.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\coq101.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\coq102.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\coq102.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\coq103.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\coq103.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\curcumin-va-tinh-chat-dau-tram.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\curcumin-va-tinh-chat-dau-tram.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\curcumin-va-tinh-chat-dau-tram1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\curcumin-va-tinh-chat-dau-tram1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\curcumin-va-tinh-chat-dau-tram2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\curcumin-va-tinh-chat-dau-tram2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\curcumin-va-tinh-chat-dau-tram3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\curcumin-va-tinh-chat-dau-tram3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-duoc-lieu-thai-duong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-duoc-lieu-thai-duong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-duoc-lieu-thai-duong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-duoc-lieu-thai-duong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-duoc-lieu-thai-duong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-duoc-lieu-thai-duong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-duoc-lieu-thai-duong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-duoc-lieu-thai-duong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-hoa-buoi-la-beauty.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-hoa-buoi-la-beauty.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-hoa-buoi-la-beauty1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-hoa-buoi-la-beauty1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-hoa-buoi-la-beauty2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-hoa-buoi-la-beauty2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-hoa-buoi-la-beauty3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-hoa-buoi-la-beauty3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-thao-duoc-la-beauty.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-thao-duoc-la-beauty.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-thao-duoc-la-beauty1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-thao-duoc-la-beauty1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-thao-duoc-la-beauty2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-thao-duoc-la-beauty2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-thao-duoc-la-beauty3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-thao-duoc-la-beauty3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau-nazorel-shampoo-ketoconazol3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-goi-tri-gau3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-goi-tri-gau3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-mu-u-thai-duong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-mu-u-thai-duong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-mu-u-thai-duong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-mu-u-thai-duong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-mu-u-thai-duong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-mu-u-thai-duong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dau-mu-u-thai-duong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dau-mu-u-thai-duong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\decumar.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\decumar.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\decumar1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\decumar1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\decumar2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\decumar2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\decumar3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\decumar3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dr-liver-jpanwell.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dr-liver-jpanwell.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dr-liver-jpanwell1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dr-liver-jpanwell1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dr-liver-jpanwell2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dr-liver-jpanwell2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dr-liver-jpanwell3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dr-liver-jpanwell3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dung-dich-ve-sinh-phu-nu-natural-feminine3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\dungcuyte.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\dungcuyte.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\euro-ginko-gold.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\euro-ginko-gold.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\euro-ginko-gold1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\euro-ginko-gold1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\euro-ginko-gold2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\euro-ginko-gold2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\euro-ginko-gold3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\euro-ginko-gold3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\evening-primrose-oil.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\evening-primrose-oil.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\evening-primrose-oil1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\evening-primrose-oil1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\evening-primrose-oil2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\evening-primrose-oil2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\evening-primrose-oil3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\evening-primrose-oil3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gasso-max.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gasso-max.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gasso-max1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gasso-max1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gasso-max2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gasso-max2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gasso-max3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gasso-max3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gel-lo-hoi-la-beauty.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gel-lo-hoi-la-beauty.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gel-lo-hoi-la-beauty1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gel-lo-hoi-la-beauty1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gel-lo-hoi-la-beauty2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gel-lo-hoi-la-beauty2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\gel-lo-hoi-la-beauty3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\gel-lo-hoi-la-beauty3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\giai-doc-gan-liverwell.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\giai-doc-gan-liverwell.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\giai-doc-gan-liverwell1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\giai-doc-gan-liverwell1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\giai-doc-gan-liverwell2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\giai-doc-gan-liverwell2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\giai-doc-gan-liverwell3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\giai-doc-gan-liverwell3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ha-ap-ich-nhan.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ha-ap-ich-nhan.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ha-ap-ich-nhan1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ha-ap-ich-nhan1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ha-ap-ich-nhan2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ha-ap-ich-nhan2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ha-ap-ich-nhan3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ha-ap-ich-nhan3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hai-thuong-vuong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hai-thuong-vuong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hai-thuong-vuong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hai-thuong-vuong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hai-thuong-vuong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hai-thuong-vuong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hai-thuong-vuong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hai-thuong-vuong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hato-gold.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hato-gold.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hato-gold1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hato-gold1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hato-gold2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hato-gold2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace-support.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace-support.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace-support1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace-support1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace-support2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace-support2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace-support3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace-support3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\heart-ace3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\heart-ace3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hetieuhoa.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hetieuhoa.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoang-to-nu.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoang-to-nu.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoang-to-nu1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoang-to-nu1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoang-to-nu2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoang-to-nu2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoang-to-nu3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoang-to-nu3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoat-huyet-thong-mach.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoat-huyet-thong-mach.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoat-huyet-thong-mach1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoat-huyet-thong-mach1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoat-huyet-thong-mach2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoat-huyet-thong-mach2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\hoat-huyet-thong-mach3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\hoat-huyet-thong-mach3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ich-tam-khang.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ich-tam-khang.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ich-tam-khang1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ich-tam-khang1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ich-tam-khang2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ich-tam-khang2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ich-tam-khang3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ich-tam-khang3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-boi-dac-tri.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-boi-dac-tri.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-boi-dac-tri1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-boi-dac-tri1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-boi-dac-tri2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-boi-dac-tri2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-boi-dac-tri3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-boi-dac-tri3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-danh-rang-duoc-lieu.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-danh-rang-duoc-lieu.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-danh-rang-duoc-lieu1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-danh-rang-duoc-lieu1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-danh-rang-duoc-lieu2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-danh-rang-duoc-lieu2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kem-danh-rang-duoc-lieu3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kem-danh-rang-duoc-lieu3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kutieskin-kem-boi.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kutieskin-kem-boi.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kutieskin-kem-boi1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kutieskin-kem-boi1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kutieskin-kem-boi2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kutieskin-kem-boi2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\kutieskin-kem-boi3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\kutieskin-kem-boi3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold-new.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold-new.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold-new1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold-new1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold-new2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold-new2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold-new3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold-new3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lacto-biomin-gold3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lacto-biomin-gold3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\leana-ocavill.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\leana-ocavill.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\leana-ocavill1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\leana-ocavill1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\leana-ocavill2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\leana-ocavill2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\leana-ocavill3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\leana-ocavill3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\liverwell-nutrimed.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\liverwell-nutrimed.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\liverwell-nutrimed1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\liverwell-nutrimed1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\liverwell-nutrimed2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\liverwell-nutrimed2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\liverwell-nutrimed3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\liverwell-nutrimed3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lutein.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lutein.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lutein1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lutein1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lutein2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lutein2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\lutein3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\lutein3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maca-m-male-power.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maca-m-male-power.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maca-m-male-power1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maca-m-male-power1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maca-m-male-power2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maca-m-male-power2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maca-m-male-power3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maca-m-male-power3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maxpremum-naga-plus.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maxpremum-naga-plus.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maxpremum-naga-plus1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maxpremum-naga-plus1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maxpremum-naga-plus2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maxpremum-naga-plus2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\maxpremum-naga-plus3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\maxpremum-naga-plus3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-tam-nuoc-cam-tay.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-tam-nuoc-cam-tay.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-tam-nuoc-cam-tay1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-tam-nuoc-cam-tay1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-tam-nuoc-cam-tay2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-tam-nuoc-cam-tay2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-tam-nuoc-cam-tay3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-tam-nuoc-cam-tay3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-xong-khi.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-xong-khi.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-xong-khi1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-xong-khi1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-xong-khi2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-xong-khi2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\may-xong-khi3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\may-xong-khi3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\mo-mau-tam-binh.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\mo-mau-tam-binh.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\mo-mau-tam-binh1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\mo-mau-tam-binh1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\mo-mau-tam-binh2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\mo-mau-tam-binh2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\mo-mau-tam-binh3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\mo-mau-tam-binh3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nattocerebest.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nattocerebest.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nattocerebest1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nattocerebest1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nattocerebest2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nattocerebest2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nattocerebest3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nattocerebest3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\neothera-acnes-gel.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\neothera-acnes-gel.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\neothera-acnes-gel1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\neothera-acnes-gel1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\neothera-acnes-gel2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\neothera-acnes-gel2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\neothera-acnes-gel3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\neothera-acnes-gel3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ninh-tam-vuong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ninh-tam-vuong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ninh-tam-vuong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ninh-tam-vuong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ninh-tam-vuong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ninh-tam-vuong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ninh-tam-vuong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ninh-tam-vuong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\noitietto.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\noitietto.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-hoa-hong-la-beauty.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-hoa-hong-la-beauty.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-hoa-hong-la-beauty1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-hoa-hong-la-beauty1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-hoa-hong-la-beauty2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-hoa-hong-la-beauty2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-hoa-hong-la-beauty3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-hoa-hong-la-beauty3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-suc-mieng.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-suc-mieng.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-suc-mieng1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-suc-mieng1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-suc-mieng2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-suc-mieng2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-suc-mieng3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-suc-mieng3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-tay-trang-la-beauty.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-tay-trang-la-beauty.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-tay-trang-la-beauty1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-tay-trang-la-beauty1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-tay-trang-la-beauty2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-tay-trang-la-beauty2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\nuoc-tay-trang-la-beauty3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\nuoc-tay-trang-la-beauty3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omega-plus.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omega-plus.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omega-plus1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omega-plus1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omega-plus2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omega-plus2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omega-plus3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omega-plus3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omega-plus4.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omega-plus4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-cardio.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-cardio.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-cardio1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-cardio1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-cardio2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-cardio2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-cardio3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-cardio3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-ginkgo.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-ginkgo.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-ginkgo1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-ginkgo1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-ginkgo2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-ginkgo2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\omexxel-ginkgo3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\omexxel-ginkgo3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\onagre.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\onagre.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\onagre1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\onagre1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\onagre2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\onagre2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\onagre3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\onagre3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\optimax-immunity.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\optimax-immunity.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\optimax-immunity1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\optimax-immunity1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\optimax-immunity2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\optimax-immunity2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\optimax-immunity3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\optimax-immunity3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\pikolin-ocavill.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\pikolin-ocavill.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\pikolin-ocavill1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\pikolin-ocavill1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\pikolin-ocavill2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\pikolin-ocavill2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\pikolin-ocavill3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\pikolin-ocavill3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\proctogel.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\proctogel.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\proctogel1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\proctogel1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\proctogel2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\proctogel2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\proctogel3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\proctogel3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rosette-acne-clear.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rosette-acne-clear.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rosette-acne-clear1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rosette-acne-clear1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rosette-acne-clear2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rosette-acne-clear2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rosette-acne-clear3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rosette-acne-clear3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rua-mat-nghe-nano.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rua-mat-nghe-nano.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rua-mat-nghe-nano1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rua-mat-nghe-nano1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rua-mat-nghe-nano2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rua-mat-nghe-nano2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\rua-mat-nghe-nano3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\rua-mat-nghe-nano3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\sam-nhung-bo-than.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\sam-nhung-bo-than.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\sam-nhung-bo-than1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\sam-nhung-bo-than1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\sam-nhung-bo-than2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\sam-nhung-bo-than2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\sam-nhung-bo-than3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\sam-nhung-bo-than3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\siro-an-ngon-healthy.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\siro-an-ngon-healthy.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\siro-an-ngon-healthy1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\siro-an-ngon-healthy1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\siro-an-ngon-healthy2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\siro-an-ngon-healthy2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\siro-an-ngon-healthy3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\siro-an-ngon-healthy3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-chi-ke-rang-okamura.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-chi-ke-rang-okamura.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-chi-ke-rang-okamura1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-chi-ke-rang-okamura1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-chi-ke-rang-okamura2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-chi-ke-rang-okamura2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-chi-ke-rang-okamura3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-chi-ke-rang-okamura3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-goi-em-be.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-goi-em-be.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-goi-em-be1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-goi-em-be1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-goi-em-be2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-goi-em-be2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-goi-em-be3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-goi-em-be3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-that-xa-den.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-that-xa-den.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-that-xa-den1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-that-xa-den1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-that-xa-den2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-that-xa-den2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tam-that-xa-den3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tam-that-xa-den3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tangcuongchucnang.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tangcuongchucnang.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thankinhnao.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thankinhnao.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thuoc1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thuoc1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thuoc2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thuoc2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thuoc3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thuoc3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thuoc4.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thuoc4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\thuoc5.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\thuoc5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\timmach.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\timmach.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tinh-dau-buoi-yanagiya.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tinh-dau-buoi-yanagiya.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tinh-dau-buoi-yanagiya1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tinh-dau-buoi-yanagiya1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tinh-dau-buoi-yanagiya2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tinh-dau-buoi-yanagiya2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\tinh-dau-buoi-yanagiya3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\tinh-dau-buoi-yanagiya3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\to-nu-vuong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\to-nu-vuong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\to-nu-vuong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\to-nu-vuong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\to-nu-vuong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\to-nu-vuong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\to-nu-vuong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\to-nu-vuong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\traitim.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\traitim.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trang-hai-thuong-vuong-vesta.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trang-hai-thuong-vuong-vesta.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trang-hai-thuong-vuong-vesta1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trang-hai-thuong-vuong-vesta1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trang-hai-thuong-vuong-vesta2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trang-hai-thuong-vuong-vesta2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trang-hai-thuong-vuong-vesta3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trang-hai-thuong-vuong-vesta3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trung-thao-gold.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trung-thao-gold.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trung-thao-gold1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trung-thao-gold1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trung-thao-gold2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trung-thao-gold2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\trung-thao-gold3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\trung-thao-gold3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-pn-herbal-nano-vinapharma3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-tai.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-tai.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-tai1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-tai1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-tai2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-tai2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\ve-sinh-tai3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\ve-sinh-tai3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vesinhcanhan.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vesinhcanhan.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-dat-emoran.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-dat-emoran.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-dat-emoran1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-dat-emoran1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-dat-emoran2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-dat-emoran2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-dat-emoran3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-dat-emoran3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-sang-mat-hai-thuong-vuong.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-sang-mat-hai-thuong-vuong.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-sang-mat-hai-thuong-vuong1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-sang-mat-hai-thuong-vuong1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-sang-mat-hai-thuong-vuong2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-sang-mat-hai-thuong-vuong2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-sang-mat-hai-thuong-vuong3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-sang-mat-hai-thuong-vuong3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-thia-canh.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-thia-canh.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-thia-canh1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-thia-canh1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-thia-canh2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-thia-canh2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-thia-canh3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-thia-canh3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-uong-kenkan.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-uong-kenkan.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-uong-kenkan2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-uong-kenkan2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-uong-kenkan3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-uong-kenkan3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-uong-kenkan4.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-uong-kenkan4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vien-uong-kenkan5.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vien-uong-kenkan5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vitamin-e-duong-am.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vitamin-e-duong-am.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vitamin-e-duong-am1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vitamin-e-duong-am1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vitamin-e-duong-am2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vitamin-e-duong-am2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vitamin-e-duong-am3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vitamin-e-duong-am3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vuong-nu-khang.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vuong-nu-khang.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vuong-nu-khang1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vuong-nu-khang1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vuong-nu-khang2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vuong-nu-khang2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\vuong-nu-khang3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\vuong-nu-khang3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-mui-muoi-bien.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-mui-muoi-bien.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-mui-muoi-bien1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-mui-muoi-bien1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-mui-muoi-bien2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-mui-muoi-bien2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-mui-muoi-bien3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-mui-muoi-bien3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-thom-mieng.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-thom-mieng.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-thom-mieng1.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-thom-mieng1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-thom-mieng2.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-thom-mieng2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\AnhWeb\\xit-thom-mieng3.jpg",
+      "PackagePath": "staticwebassets\\AnhWeb\\xit-thom-mieng3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\multishop\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\multishop\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\cart.html",
+      "PackagePath": "staticwebassets\\multishop\\cart.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\checkout.html",
+      "PackagePath": "staticwebassets\\multishop\\checkout.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\contact.html",
+      "PackagePath": "staticwebassets\\multishop\\contact.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\style.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\style.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\multishop\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\detail.html",
+      "PackagePath": "staticwebassets\\multishop\\detail.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\payments.png",
+      "PackagePath": "staticwebassets\\multishop\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\multishop\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\index.html",
+      "PackagePath": "staticwebassets\\multishop\\index.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\js\\main.js",
+      "PackagePath": "staticwebassets\\multishop\\js\\main.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\multishop\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\multishop\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\multishop\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\multishop\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\multishop\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\multishop\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\online-shop-website-template.jpg",
+      "PackagePath": "staticwebassets\\multishop\\online-shop-website-template.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\multishop\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanLyThuoc\\QuanLyThuoc\\wwwroot\\multishop\\shop.html",
+      "PackagePath": "staticwebassets\\multishop\\shop.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuanLyThuoc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuanLyThuoc.props",
+      "PackagePath": "build\\QuanLyThuoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLyThuoc.props",
+      "PackagePath": "buildMultiTargeting\\QuanLyThuoc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuanLyThuoc.props",
+      "PackagePath": "buildTransitive\\QuanLyThuoc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

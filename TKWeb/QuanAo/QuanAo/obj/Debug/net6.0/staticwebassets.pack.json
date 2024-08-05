@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuanAo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanAo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00001.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00001.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00002.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00002.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00003.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00003.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00004.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00004.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00005.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00005.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00006.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00006.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00007.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00007.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00008.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00008.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00009.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00009.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00010.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00010.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00011.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00011.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00012.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00012.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Chaucay\\Images QLBanChauCanh\\00013.jpg",
+      "PackagePath": "staticwebassets\\Chaucay\\Images QLBanChauCanh\\00013.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\404.html",
+      "PackagePath": "staticwebassets\\Layout\\404.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\about-us.html",
+      "PackagePath": "staticwebassets\\Layout\\about-us.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-2-column.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-2-column.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-3-column.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-3-column.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-audio-format.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-audio-format.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-details-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-details-left-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-details-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-details-right-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-gallery-format.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-gallery-format.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-left-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-list-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-list-left-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-list-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-list-right-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-list.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-list.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-right-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\blog-video-format.html",
+      "PackagePath": "staticwebassets\\Layout\\blog-video-format.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\checkout.html",
+      "PackagePath": "staticwebassets\\Layout\\checkout.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\compare.html",
+      "PackagePath": "staticwebassets\\Layout\\compare.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\contact.html",
+      "PackagePath": "staticwebassets\\Layout\\contact.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\fontawesome-stars.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\helper.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\helper.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Layout\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\venobox.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\faq.html",
+      "PackagePath": "staticwebassets\\Layout\\faq.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\about-us\\icon\\1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\about-us\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\about-us\\icon\\2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\about-us\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\about-us\\icon\\3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\about-us\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\about-us\\icon\\4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\about-us\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\1_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\1_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\1_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\1_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\1_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\1_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\1_4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\1_4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\1_5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\1_5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\2_6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\2_6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\3_1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\3_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\3_2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\3_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\banner\\featured-banner.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\banner\\featured-banner.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\bg-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bg-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\bg-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bg-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\bg-banner.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\blog-banner\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\blog-banner\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\featured-product\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\featured-product\\6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\menu\\flag-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\menu\\flag-icon\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\menu\\flag-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\menu\\flag-icon\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\menu\\li-bg-menu.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\menu\\li-bg-menu.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\menu\\logo\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\menu\\logo\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\menu\\logo\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\menu\\logo\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\payment\\1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product-details\\admin.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\product-details\\admin.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product-details\\user.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\product-details\\user.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\11.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\12.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\13.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\13.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\shipping-icon\\1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\shipping-icon\\1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\shipping-icon\\2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\shipping-icon\\2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\shipping-icon\\3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\shipping-icon\\3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\shipping-icon\\4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\shipping-icon\\4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\static-top\\1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\static-top\\1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\team\\1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\team\\1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\team\\2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\team\\2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\team\\3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\team\\3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\images\\team\\4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\team\\4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\index-2.html",
+      "PackagePath": "staticwebassets\\Layout\\index-2.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\index-3.html",
+      "PackagePath": "staticwebassets\\Layout\\index-3.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\index-4.html",
+      "PackagePath": "staticwebassets\\Layout\\index-4.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\index.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\main.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\venobox.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\login-register.html",
+      "PackagePath": "staticwebassets\\Layout\\login-register.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-3-column.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-3-column.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-4-column.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-4-column.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-left-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-list-left-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-list-left-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-list-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-list-right-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-list.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-list.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shop-right-sidebar.html",
+      "PackagePath": "staticwebassets\\Layout\\shop-right-sidebar.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\shopping-cart.html",
+      "PackagePath": "staticwebassets\\Layout\\shopping-cart.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-affiliate.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-affiliate.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-carousel.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-carousel.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-gallery-left.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-gallery-left.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-gallery-right.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-gallery-right.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-group.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-group.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-normal.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-normal.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-sale.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-sale.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-tab-style-left.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-tab-style-left.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-tab-style-right.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-tab-style-right.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product-tab-style-top.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product-tab-style-top.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\single-product.html",
+      "PackagePath": "staticwebassets\\Layout\\single-product.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\style.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\theia-sticky-sidebar.xml",
+      "PackagePath": "staticwebassets\\Layout\\theia-sticky-sidebar.xml"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\Layout\\wishlist.html",
+      "PackagePath": "staticwebassets\\Layout\\wishlist.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\QuanAo\\QuanAo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuanAo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuanAo.props",
+      "PackagePath": "build\\QuanAo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanAo.props",
+      "PackagePath": "buildMultiTargeting\\QuanAo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuanAo.props",
+      "PackagePath": "buildTransitive\\QuanAo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

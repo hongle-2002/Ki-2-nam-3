@@ -1,0 +1,60 @@
+﻿@model IEnumerable<BaoCao.Models.NhaPhatHanh>
+
+@{
+    ViewData["Title"] = "DanhSachNPH";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhSachNPH</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Ma NPH
+            </th>
+            <th>
+                Ten NPH
+            </th>
+            <th>
+                Thong Tin NPH
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+               @{
+            int i = 0;
+
+        }
+       @foreach (var item in Model) {
+             i = i + 1;
+            string @cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls table-bordered">
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenNph)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNph)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThongTinNph)
+            </td>
+            <td>
+                    <a asp-action="SuaNPH" asp-route-MaNph="@item.MaNph">Edit</a> |
+                
+                    <a asp-action="XoaNPH" asp-route-MaNph="@item.MaNph">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

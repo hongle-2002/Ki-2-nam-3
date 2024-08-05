@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBSach">
+  <DataContextMoniker Name="/DBSachDataContext" />
+  <nestedChildShapes>
+    <classShape Id="bbae40b5-111f-4788-9cdc-c7a0d89aad11" absoluteBounds="1.5, 0.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DBSachDataContext/tNXB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b69598bf-20c7-4740-b338-613999544d11" absoluteBounds="1.5150000000000001, 1.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="54b91cf7-0743-43f5-a84f-10c86cf3cf3c" absoluteBounds="5.125, 1.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DBSachDataContext/tSach" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce98c0b2-dc4b-42e7-bc48-1c98e1957598" absoluteBounds="5.14, 1.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 1.59699625651042); (5.125 : 1.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBSachDataContext/tNXB/tNXB_tSach" />
+      <nodes>
+        <classShapeMoniker Id="bbae40b5-111f-4788-9cdc-c7a0d89aad11" />
+        <classShapeMoniker Id="54b91cf7-0743-43f5-a84f-10c86cf3cf3c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ef0a2372-d251-4832-ad22-fd475f6c10d5" absoluteBounds="2.125, 3, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DBSachDataContext/tTheLoai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d5477dce-ecaa-4d33-b221-db4024a6bdd8" absoluteBounds="2.14, 3.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 3.23640055338542); (5.125 : 3.23640055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBSachDataContext/tTheLoai/tTheLoai_tSach" />
+      <nodes>
+        <classShapeMoniker Id="ef0a2372-d251-4832-ad22-fd475f6c10d5" />
+        <classShapeMoniker Id="54b91cf7-0743-43f5-a84f-10c86cf3cf3c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="901c80ee-fad8-4300-a04e-c30dbce15ea1" absoluteBounds="4.75, 3.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DBSachDataContext/tUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c376abd1-dbda-4546-85cb-30ed6ec9d7e8" absoluteBounds="4.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

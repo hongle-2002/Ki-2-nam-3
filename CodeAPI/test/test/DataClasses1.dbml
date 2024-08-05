@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLSach" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-9CMEP2V\SQLEXPRESS;Initial Catalog=QLSach;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="QLSachConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tNXB" Member="tNXBs">
+    <Type Name="tNXB">
+      <Column Name="MaNXB" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNXB" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tNXB_tSach" Member="tSaches" ThisKey="MaNXB" OtherKey="MaNXB" Type="tSach" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tSach" Member="tSaches">
+    <Type Name="tSach">
+      <Column Name="MaSach" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSach" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TacGia" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoTrang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MaTheLoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MaNXB" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TrongLuong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tNXB_tSach" Member="tNXB" ThisKey="MaNXB" OtherKey="MaNXB" Type="tNXB" IsForeignKey="true" />
+      <Association Name="tTheLoai_tSach" Member="tTheLoai" ThisKey="MaTheLoai" OtherKey="MaTheLoai" Type="tTheLoai" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tTheLoai" Member="tTheLoais">
+    <Type Name="tTheLoai">
+      <Column Name="MaTheLoai" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTheLoai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tTheLoai_tSach" Member="tSaches" ThisKey="MaTheLoai" OtherKey="MaTheLoai" Type="tSach" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,4 @@
+﻿  tesst thi api.cpp
+C:\Users\dat08\source\repos\tesst thi api\tesst thi api\tesst thi api.cpp(143,13): error C2065: 'Hinh': undeclared identifier
+C:\Users\dat08\source\repos\tesst thi api\tesst thi api\tesst thi api.cpp(146,13): error C2065: 'Hinh': undeclared identifier
+C:\Users\dat08\source\repos\tesst thi api\tesst thi api\tesst thi api.cpp(165,17): error C2065: 'Hinh': undeclared identifier

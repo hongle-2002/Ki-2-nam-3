@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\hehe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\hehe.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1001.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1002.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1003.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1004.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1005.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1006.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1007.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1008.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1009.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1010.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1011.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1012.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1013.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1014.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1015.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1016.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1017.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1018.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1019.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1020.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1021.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1022.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1023.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1024.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1025.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1026.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1027.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1028.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1029.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1030.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1031.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1032.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1049.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1050.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1051.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1052.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1053.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1054.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1055.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1056.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1057.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1069.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1070.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1071.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1072.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1073.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1074.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1075.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1076.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1077.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1078.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1088.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1089.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1090.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1091.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1092.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1093.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1094.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1095.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1096.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1097.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1098.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1109.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1110.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1111.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1112.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1113.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1114.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1115.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1116.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1117.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1118.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1132.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1133.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1134.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1135.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1136.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1137.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1138.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1139.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1140.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1141.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1142.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1143.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1144.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1145.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1151.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1152.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1153.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1154.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1155.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1156.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1157.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1158.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1159.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1160.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1161.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1162.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1163.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1164.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1165.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1166.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1167.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1168.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1169.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1170.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1171.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1172.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1173.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\1175.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5001.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5002.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5003.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5004.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5005.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5006.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5007.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5008.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5009.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5010.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5011.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5012.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5013.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5014.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5015.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5016.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5018.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5019.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5020.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5021.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5022.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5023.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5024.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5025.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5026.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5028.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5029.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\5030.jpeg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD01.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD02.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD03.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD04.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD05.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD06.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD07.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD08.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD09.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD13.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD14.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD15.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD16.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD17.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD18.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD19.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\Bongda\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\Bongda\\images\\STD20.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\animate.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\aos.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\css\\style.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\LayoutHotel\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\about_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\about_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\bia.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\bia.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\coca.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\coca.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\fanta.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\fanta.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\giala.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\giala.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\hoaqua.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\hoaqua.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\img_7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\masage.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\masage.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutHotel\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\aos.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\main.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\LayoutHotel\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\LayoutHotel\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutHotel\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\hehe\\hehe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.hehe.props",
+      "PackagePath": "build\\hehe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.hehe.props",
+      "PackagePath": "buildMultiTargeting\\hehe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.hehe.props",
+      "PackagePath": "buildTransitive\\hehe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.hehe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

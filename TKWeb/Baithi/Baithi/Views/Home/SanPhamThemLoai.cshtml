@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "SanPhamThemLoai";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+@model List<SanPham>
+@foreach (var item in Model)
+{
+		<li class="span3">
+			<div class="product-box">
+			<span class="sale_tag"></span>
+			<p><a href="product_detail.html"><img src="@Url.Content("../Images QLBanMu/" + item.AnhDaiDien)" alt=""></a></p>
+			<a href="product_detail.html" class="title">@item.TenSanPham</a><br>
+			<a asp-action="SuaSanPham" asp-route-maSp="@item.MaSanPham" class="category">Sửa sản phẩm</a>
+			<p class="price">@item.DonGiaBanNhoNhat</p>
+		</div>
+		</li>
+
+}
+

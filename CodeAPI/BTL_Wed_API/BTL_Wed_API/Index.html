@@ -1,0 +1,219 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>API Quan Ly Thuoc</title>
+    <link rel="shortcut icon" href="#">
+    <style>
+        h1 {
+            font-size: 40px;
+            font-weight: bold;
+            color: red;
+        }
+
+        #pagination ul {
+            list-style: none;
+            display: flex;
+        }
+
+        #pagination .paginationjs-page,
+        #pagination .paginationjs-ellipsics,
+        #pagination .paginationjs-prev,
+        #pagination .paginationjs-next {
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        label {
+            font-size: 18px;
+            font-weight: bold;
+            color: black;
+        }
+
+        #content {
+            background-color: #a1def5;
+        }
+
+        input, textarea, select {
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body>
+    <!-- Menu -->
+    <div id="menu">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="Index.html">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="Index.html">Thuốc <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="nhasanxuat.html">Nhà Sản Xuất </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="nhomthuoc.html">Nhóm thuốc </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Thân -->
+    <div id="content" class="border border-info" style="margin-top:5px;display:none;">
+        <div class="row">
+            <div class="col-5" style="left: 5px;">
+                <form>
+                    <div class="form-group">
+                        <label for="code">Mã Thuốc</label>
+                        <input type="text" class="form-control" id="mathuoc">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Tên Thuốc</label>
+                        <input type="text" class="form-control" id="tenthuoc">
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="bookTypeSelect">Nhóm Thuốc</label>
+
+                            <select class="form-control" id="nhomthuoclist"></select>
+                        </div>
+                        <div class="col-6">
+                            <label for="bookTypeSelect">Nhà Sản Xuất</label>
+
+                            <select class="form-control" id="nhasanxuat"></select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="author">Nguồn Gốc</label>
+                        <input type="text" class="form-control" id="nguongoc">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="author">Dạng Bào Chế</label>
+                        <input type="text" class="form-control" id="dangbaoche">
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="author">Ngày Sản Xuất</label>
+                            <input type="date" class="form-control" id="ngaysx">
+                        </div>
+                        <div class="col-6">
+                            <label for="author">Hạn Sử Dụng</label>
+                            <input type="text" class="form-control" id="hansd">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="author">Bảo Quản</label>
+                        <input type="text" class="form-control" id="baoquan">
+                    </div>
+                    <div class="form-group">
+                        <label for="quantity">Số Lượng</label>
+
+                        <input type="number" min="1" class="form-control" id="soluong">
+                    </div>
+                </form>
+            </div>
+            <div class="col-7" style="right: 5px;">
+                <form>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="code">Hàm Lượng</label>
+                            <textarea type="text" class="form-control" id="hamluong" rows="7"
+                                      style="resize: none;"></textarea>
+                        </div>
+                        <div class="col-6">
+                            <label for="code">Thành Phần</label>
+                            <textarea type="text" class="form-control" id="thanhphan" rows="7"
+                                      style="resize: none;"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-6">
+                            <label for="code">Công Dụng</label>
+                            <textarea type="text" class="form-control" id="congdung" rows="7"
+                                      style="resize: none;"></textarea>
+                        </div>
+                        <div class="col-6">
+                            <label for="code">Cách Dùng</label>
+                            <textarea type="text" class="form-control" id="cachdung" rows="7"
+                                      style="resize: none;"></textarea>
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="author">Chú Ý</label>
+                        <textarea type="text" class="form-control" id="chuy" rows="7" style="resize: none;"></textarea>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div style="margin:0px 10px 10px 10px">
+            <button type="button" class="btn btn-primary" onclick="AddThuoc()">Thêm Thuốc</button>
+            <button type="button" class="btn btn-primary" onclick="EditThuoc()">Sửa Thuốc</button>
+            <button type="button" class="btn btn-primary" onclick="AnContent()" style="float: right">Ẩn</button>
+        </div>
+
+    </div>
+    <div class="row" style="margin:10px 0px 10px 0px">
+        <div class="col-3">
+            <button type="button" class="btn btn-primary" onclick="HienContent(), clearInput()">Thêm mới</button>
+        </div>
+        <div class="col-5">
+            <form class="form-inline">
+                <select class="form-control mr-sm-2" aria-label="Search" id="chonloai">
+                    <option selected>--Chọn Loại--</option>
+                    <option value="mathuoc">Mã Thuốc</option>
+                    <option value="tenthuoc">Tên Thuốc</option>
+                    <option value="nhomthuoc"> Tên Nhóm Thuốc</option>
+                    <option value="nhasanxuat">Tên Nhà sản xuất</option>
+                </select>
+                <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm" aria-label="Search" id="timkiem">
+                <button type="button" class="btn btn-primary" onclick="searchThuoc()">Tìm kiếm</button>
+            </form>
+        </div>
+        <div class="col-4">
+            <button type="button" class="btn btn-dark" onclick="clearInput(), GetListThuoc()" style="float: right">Reset</button>
+        </div>
+    </div>
+
+    <div>
+        <table id="thuocchitiet" class="table table-striped table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>Mã Thuốc</th>
+                    <th>Tên Thuốc</th>
+                    <th>Nhóm Thuốc</th>
+                    <th>Nhà Sản Xuất</th>
+                    <th>Nguồn Gốc</th>
+                    <th>Dạng Bào Chế</th>
+                    <th>Ngày Sản Xuất</th>
+                    <th>Hạn Sử Dụng</th>
+                    <th>Số Lượng</th>
+                    <th colspan="2">Hành động</th>
+                </tr>
+            </thead>
+            <tbody id="allThuoc"></tbody>
+        </table>
+    </div>
+
+    <script src="Scripts/main.js"></script>
+</body>
+
+</html>

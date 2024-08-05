@@ -1,0 +1,36 @@
+﻿@model BaoCao.Models.NhaXuatBan
+
+@{
+    ViewData["Title"] = "SuaNXB";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h4>NhaXuatBan</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="SuaNXB">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaNxb" />
+            <div class="form-group">
+                <label asp-for="TenNxb" class="control-label"></label>
+                <input asp-for="TenNxb" class="form-control" />
+                <span asp-validation-for="TenNxb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThongTinNxb" class="control-label"></label>
+                <input asp-for="ThongTinNxb" class="form-control" />
+                <span asp-validation-for="ThongTinNxb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

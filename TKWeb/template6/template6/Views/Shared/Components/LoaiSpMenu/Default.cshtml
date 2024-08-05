@@ -1,0 +1,11 @@
+﻿@model IEnumerable<PhanLoai>
+<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+	<ul class="nav navbar-nav menu_nav ml-auto">
+		@foreach(var item in Model)
+		{
+			<li class="nav-item active"><a class="nav-link" asp-controller="Home" asp-action="SanPhamThemLoai" asp-route-maloai="@item.MaPhanLoai">@item.PhanLoaiChinh</a></li>
+
+		}
+		
+	</ul>
+</div>

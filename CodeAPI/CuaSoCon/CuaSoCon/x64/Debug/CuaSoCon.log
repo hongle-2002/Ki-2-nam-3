@@ -1,0 +1,4 @@
+﻿  CuaSoCon.cpp
+D:\CodeAPI\CuaSoCon\CuaSoCon\CuaSoCon.cpp(182,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+D:\CodeAPI\CuaSoCon\CuaSoCon\CuaSoCon.cpp(196,44): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  CuaSoCon.vcxproj -> D:\CodeAPI\CuaSoCon\x64\Debug\CuaSoCon.exe

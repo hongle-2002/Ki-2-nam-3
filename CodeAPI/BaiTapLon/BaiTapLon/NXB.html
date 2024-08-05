@@ -1,0 +1,155 @@
+﻿
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Quản lý bán hàng</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="Scripts/nxb.js"></script>
+
+    <link rel="shortcut icon" href="#">
+    <style>
+        h1 {
+            font-size: 40px;
+            font-weight: bold;
+            color: red;
+        }
+
+        #pagination ul {
+            list-style: none;
+            display: flex;
+        }
+
+        #pagination .paginationjs-page,
+        #pagination .paginationjs-ellipsics,
+        #pagination .paginationjs-prev,
+        #pagination .paginationjs-next {
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        label {
+            font-size: 18px;
+            font-weight: bold;
+            color: black;
+        }
+
+        #content {
+            background-color: #a1def5;
+        }
+
+        input, textarea, select {
+            font-weight: bold;
+        }
+    </style>
+
+
+    <link type="text/css" href="../qls/css/main.css" rel="stylesheet" />
+    <script type="text/javascript" src="../qls/js/jquery_min.js"></script>
+    <script type="text/javascript" src="../qls/js/danhmuc.js"></script>
+
+
+
+
+
+</head>
+
+<body>
+    <!--HEADER-->
+    <div class="header">
+        <a href="Index.html" title="Quản lý sách" style="outline:none;"><h1>QUẢN LÝ SÁCH</h1></a>
+        <div class="logout">
+            Xin chào <b>Mọi người</b> | <a href="#" title="Log out">Log out</a>
+        </div>
+        <!--NAVIGATION BAR-->
+        <ul class="navigation">
+            <a href="Index.html" title="Danh mục sản phẩm" class="navigation-item-selected">
+            <li>Danh mục sản phẩm</li></a>
+            <a href="TheLoai.html" title="Quản lý thể loại">
+            <li>Quản lý thể loại</li></a>
+            <a href="NXB.html" title="Quản lý nhà xuất bản">
+            <li>Quản lý xuất bản</li></a>
+           
+        </ul><!--NAVIGATION BAR-->
+    </div><!--END HEADER-->
+    <!--CONTENT-->
+
+    <div id="content" class="border border-info" style="margin-top:5px;display:none;">
+        <div class="row">
+            <div class="col-5" style="left: 5px;">
+                <form>
+                    <div class="form-group">
+                        <label for="code">Mã NXB</label>
+                        <input type="text" class="form-control" id="manxb">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Tên NXB </label>
+                        <input type="text" class="form-control" id="tennxb">
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <div style="margin:0px 10px 10px 10px">
+            <button type="button" class="btn btn-primary" onclick="AddNXB()">Thêm Thể Loại</button>
+            <button type="button" class="btn btn-primary" onclick="EditNXB()">Sửa</button>
+            <button type="button" class="btn btn-primary" onclick="AnContent()" style="float: right">Ẩn</button>
+        </div>
+
+    </div>
+    <div class="row" style="margin:10px 0px 10px 0px">
+        <div class="col-3">
+            <button type="button" class="btn btn-primary" onclick="HienContent(), clearInput()">Thêm mới</button>
+        </div>
+        <div class="col-5">
+            <form class="form-inline">
+                <select class="form-control mr-sm-2" aria-label="Search" id="chonloai">
+                    <option selected>--Chọn Loại--</option>
+                    <option value="manxb">Mã NXB</option>
+                    <option value="tennxb">Tên NXB</option>
+
+                </select>
+                <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm" aria-label="Search" id="timkiem">
+                <button type="button" class="btn btn-primary" onclick="searchNXB();">Tìm kiếm</button>
+
+
+            </form>
+        </div>
+        <div class="col-4">
+            <button type="button" class="btn btn-dark" onclick="clearInput(), GetListNXB()" style="float: right">Reset</button>
+        </div>
+    </div>
+    <div>
+        <table id="thuocchitiet" class="table table-striped table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>Mã NXB</th>
+                    <th>Tên NXB</th>
+
+                    <th colspan="2">Hành động</th>
+                </tr>
+            </thead>
+            <tbody id="allNXB"></tbody>
+        </table>
+    </div>
+
+    <!--END CONTENT-->
+    <!--FOOTER-->
+    <div class="footer">
+        <p><b>Bài tập lớn Lập Trình API</b></p>
+        <span style="line-height:18px;">
+            <b>Nhóm thực hiện:</b><br />
+            Nguyễn Việt Hồng - 201200143<br />
+            Lê Thúy Hồng - 201200142<br />
+
+        </span>
+    </div><!--END FOOTER-->
+
+</body>
+</html>

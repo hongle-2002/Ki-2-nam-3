@@ -1,0 +1,101 @@
+﻿@model IEnumerable<GioHang>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutSach.cshtml";
+}
+
+
+             
+ 
+    <!-- Breadcrumb -->
+    <div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="col-12">
+                <nav class="breadcrumb bg-light mb-30">
+                    <a class="breadcrumb-item text-dark" href="#">Home</a>
+                    <a class="breadcrumb-item text-dark" href="#">Shop</a>
+                    <span class="breadcrumb-item active" href="#">Shopping Cart</span>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Cart -->
+    <div class="container-fluid">
+        <div class="row px-xl-5">
+            <div class="table-responsive mb-5">
+                <table class="custom-table table table-borderless table-hover text-center mb-0">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Tên sản phẩm</th>
+                            <th>Giá</th>
+                            <th>Số lượng</th>
+                            <th>Total</th>
+                            <th>Remove</th>
+                        </tr>
+                    </thead>
+                    <tbody class="align-middle">
+                        @foreach(var item in Model)
+                        {
+                            <tr>
+                            <td class="align-middle">
+                                <img src="@Url.Content("../AnhWeb/" + item.Hinh)" class="product-cart-img" alt="">
+                                @item.TenSach
+                            </td>
+                            <td class="align-middle">@item.DonGia</td>
+                            <td class="align-middle">
+                                <div class="input-group cart-quantity mx-auto">
+                                    <button class="btn btn-sm btn-square btn-primary rounded-0">
+                                        <i class="fas fa-minus"></i>
+                                    </button>
+                                    <input type="text" class="form-control shadow-none rounded-0" value="@item.SoLuong">
+                                    <button class="btn btn-sm btn-square btn-primary rounded-0">
+                                        <i class="fas fa-plus"></i>
+                                    </button>
+                                </div>
+                            </td>
+                            <td class="align-middle">@item.ThanhTien</td>
+                            <td class="align-middle">
+                                <button class="btn btn-sm btn-danger rounded-0">
+                                    <i class="fa fa-times"></i>
+                                </button>
+                            </td>
+                        </tr>
+                        }
+                        
+                        
+                    </tbody>
+                </table>
+            </div>
+      @*      <div class="col-lg-4">
+                <form class="mb-30">
+                    <div class="input-group">
+                        <input type="text" class="coupon-input form-control border-0 shadow-none rounded-0" placeholder="Coupon Code">
+                        <button class="btn btn-primary shadow-none rounded-0">Apply Coupon</button>
+                    </div>
+                </form>
+                <h5 class="title position-relative text-dark text-uppercase mb-3">
+                    <span class="bg-secondary pe-3">Cart Summary</span>
+                </h5>
+                <div class="cart-summary bg-light mb-5">
+                    <div class="border-bottom pb-2">
+                        <div class="d-flex justify-content-between mb-3">
+                            <h6>Subtotal</h6>
+                            <h6>$150</h6>
+                        </div>
+                        <div class="d-flex justify-content-between mb-3">
+                            <h6>Shipping</h6>
+                            <h6>$10</h6>
+                        </div>
+                    </div>
+                    <div class="pt-2">
+                        <div class="d-flex justify-content-between mt-2">
+                            <h5>Total</h5>
+                            <h5>$160</h5>
+                        </div>
+                        <button class="btn btn-primary rounded-0 shadow-0 my-3 py-3 fw-bold w-100">Proceed To Checkout</button>
+                    </div>
+                </div>
+            </div>*@
+        </div>
+    </div>
+    

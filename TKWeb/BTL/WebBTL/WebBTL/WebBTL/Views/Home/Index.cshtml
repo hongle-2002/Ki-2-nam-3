@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucThuoc>
+@foreach(var item in Model)
+{
+    @await Html.PartialAsync("PartialSanPham", item);
+}
+<div class="col-12">
+    <nav>
+        <ul class="pagination justify-content-center">
+            @Html.PagedListPager(Model, page=>Url.Action("Index", new{page=page}))
+        </ul>
+    </nav>
+</div>
+

@@ -1,0 +1,1569 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\template6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\template6.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00001.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00001.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00002.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00002.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00003.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00003.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00004.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00004.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00005.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00005.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00006.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00006.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00007.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00007.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00008.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00008.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00009.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00009.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00010.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00010.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00011.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00011.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00012.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00012.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\Images QLBanChauCanh\\00013.jpg",
+      "PackagePath": "staticwebassets\\Images QLBanChauCanh\\00013.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\css\\_DS_Store",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\css\\main.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\_DS_Store",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\index.html",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\index.html"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\js\\_DS_Store",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\_DS_Store",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\layout\\Karma Shop-doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\layout\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\layout\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\layout\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\layout\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\layout\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\layout\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\layout\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\layout\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\layout\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\main.css",
+      "PackagePath": "staticwebassets\\layout\\css\\main.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\layout\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\main.map",
+      "PackagePath": "staticwebassets\\layout\\css\\main.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\layout\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\layout\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\layout\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\layout\\img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\next.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\layout\\img\\brand\\5.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\layout\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\fav.png",
+      "PackagePath": "staticwebassets\\layout\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\layout\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\logo.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\.DS_Store",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\next.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\prev.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\q1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r10.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r11.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r12.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r6.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r7.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r8.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\r9.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\layout\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\layout\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\layout\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\layout\\js\\main.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\layout\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\layout\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\layout\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\layout\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\TKWeb\\template6\\template6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.template6.props",
+      "PackagePath": "build\\template6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.template6.props",
+      "PackagePath": "buildMultiTargeting\\template6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.template6.props",
+      "PackagePath": "buildTransitive\\template6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.template6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

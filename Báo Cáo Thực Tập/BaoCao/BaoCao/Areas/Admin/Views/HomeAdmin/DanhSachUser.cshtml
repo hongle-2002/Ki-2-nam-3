@@ -1,0 +1,59 @@
+﻿@model IEnumerable<BaoCao.Models.Username>
+
+@{
+    ViewData["Title"] = "DanhSachUser";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<p>
+    <a asp-action="ThemUser">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+               Ten User
+            </th>
+            <th>
+                Password
+            </th>
+            <th>
+               LoaiUser
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            string @cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls table-bordered">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username1)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoaiUser)
+            </td>
+            <td>
+                <a asp-action="SuaUer" asp-route-user="@item.Username1">Edit</a> |
+                
+                    <a asp-action="XoaUser" asp-route-user="@item.Username1">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

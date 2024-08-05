@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<Cauthu>
+@foreach(var item in Model)
+{
+    <div class="col-md-6 col-lg-4 mb-5">
+                            <div class="hotel-room text-center">
+                                <a href="#" class="d-block mb-0 thumbnail"><img src="@Url.Content("../Bongda/images/" + item.Anh)" alt="Image" class="img-fluid"></a>
+                                <div class="hotel-room-body">
+                                    <h3 class="heading mb-0"><a href="#">@item.HoVaTen</a></h3>
+                                    <strong class="price">@item.SoAo</strong>
+                                     <p><a  asp-action="ChiTietCauThu"  class="btn btn-primary pill text-white px-4">Chi Tiết</a></p>
+                 <p><a asp-action="SuaCauThu"  asp-route-maCauThu="@item.CauThuId" class="btn btn-primary pill text-white px-4">Sua</a></p>
+
+                                </div>
+                            </div>
+                        </div>
+}

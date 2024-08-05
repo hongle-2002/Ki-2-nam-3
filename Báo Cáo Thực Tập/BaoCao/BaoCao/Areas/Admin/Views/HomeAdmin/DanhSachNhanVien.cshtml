@@ -1,0 +1,75 @@
+﻿@model IEnumerable<BaoCao.Models.NhanVien>
+
+@{
+    ViewData["Title"] = "DanhSachNhanVien";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h3>Danh sách nhân viên </h3>
+
+<p>
+    <a asp-action="ThemNhanVien">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Tên nhân viên
+            </th>
+            <th>
+               Ngày sinh
+            </th>
+            <th>
+               Số điện thoại 
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Chức vụ
+            </th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+       
+        @{
+            int i = 0;
+
+        }
+        
+        @foreach (var item in Model) {
+                i = i + 1;
+                string @cls = "table-success";
+                if (i % 2 == 0)
+                {
+                    cls = "table-primary";
+                }
+            <tr class="@cls table-bordered">
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sdt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChucVu)
+            </td>
+            
+            <td>
+                <a asp-action="SuaNhanVien" asp-route-manv="@item.MaNv">Edit</a> |
+@*                <a asp-action="Details" asp-route-id="@item.MaNv">Details</a> |
+                *@     <a asp-action="XoaNhanVien" asp-route-manv="@item.MaNv">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

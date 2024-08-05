@@ -1,0 +1,397 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link href="Style.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Quản lí giáo viên</title>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10">
+                <div class="panel">
+                    <form class="panel-form">
+                        <div class="form-group">
+                            <label for="mgv">Mã giáo viên</label>
+                            <input type="text" class="form-control" id="mgv">
+                        </div>
+                        <div class="form-group">
+                            <label for="name">Tên giáo viên</label>
+                            <input type="text" class="form-control" id="name">
+                        </div>
+                        <div class="form-group">
+                            <label for="salary">Lương</label>
+                            <input type="text" class="form-control" id="salary">
+                        </div>
+                        <div class="form-group">
+                            <label for="sdt">Số điện thoại</label>
+                            <input type="text" class="form-control" id="sdt">
+                        </div>
+                        <div class="form-group">
+                            <label for="khoaTypeSelect">Khoa</label>
+                            <select class="form-control" id="khoaTypeSelect"></select>
+                        </div>
+                        <div class="form-group">
+                            <label for="bomonSelect">Bộ môn</label>
+                            <select class="form-control" id="bomonSelect"></select>
+                        </div>
+                        <div style="margin-bottom: 10px">
+                            <button type="button" class="btn btn-outline-light" onclick="addGIaoVien()" style="padding:5px 35px;margin-right:10px">ADD</button>
+                            <button type="button" class="btn btn-outline-light" onclick="editGiaoVien()" style=" padding:5px 25px;">EDIT</button>
+                        </div>
+                    </form>
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col col-sm-3 col-xs-12">
+                                <button type="button" class="btn btn-outline-light" onclick="clearInput()" style=" padding: 5px 25px; margin-right: 10px">Clear</button>
+                                <button type="button" class="btn btn-outline-light" onclick="GetGiaoVienList()" style="  padding: 5px 25px">Show all</button>
+                            </div>
+                            <div class="col-sm-9 col-xs-12 text-right">
+                                <div class="btn_group">
+                                    <select class="form form-control" id="chon" style="width:100px">
+                                        <option id="chonten" class="form form-control" style="color: black">Tên</option>
+                                        <option id="chonma" class="btn-outline-light" style="color: black">Mã</option>
+                                    </select>
+                                    <input type="text" class="form-control" placeholder="Search" id="name1">
+                                    <button type="button" class="btn btn-primary" onclick="searchGiaoVienName()"><i class="fa fa-sync-alt">Tìm kiếm</i></button>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Mã giáo viên</th>
+                                    <th>Tên giáo viên</th>
+                                    <th>Lương</th>
+                                    <th>Số điện thoại</th>
+                                    <th>Khoa</th>
+                                    <th>Bộ môn</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="allGiaoVien"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<script type="text/javascript">
+    let url = 'https://localhost:44393/api';
+    $(document).ready(function () {
+        GetKhoaList();
+        GetBoMonList();
+        GetGiaoVienList();       
+    });
+    //lấy thông tin từ bảng khoa
+    function GetKhoaList() {
+        $.ajax({
+            url: url + "/khoa",
+            method: 'Get',
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (data) {
+                let options = '';
+                for (var i = 0; i < data.length; ++i) {
+                    options = options + '<option value="' + data[i].MaKhoa + '">' + data[i].TenKhoa + '</option>';
+                }
+                $('#khoaTypeSelect').html(options).prepend('<option value="" disabled selected hidden>--Chọn tên khoa--</option>');
+            }
+        })
+    }
+    //lấy thông tin từ bảng bộ môn
+    function GetBoMonList() {
+        $.ajax({
+            url: url + "/bomon",
+            method: 'Get',
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (data) {
+                let options = '';
+                for (var i = 0; i < data.length; ++i) {
+                    options = options + '<option value="' + data[i].MaBoMon + '">' + data[i].TenBoMon + '</option>';
+                }
+                $('#bomonSelect').html(options).prepend('<option value="" disabled selected hidden>--Chọn tên bộ môn--</option>');
+            }
+        })
+    }
+    //lấy thông tin từ bảng giáo viên
+    function GetGiaoVienList() {
+        $.ajax({
+            url: url + "/giaovien?name",
+            method: 'Get',
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (data) {
+                let table = '';
+                for (var i = 0; i < data.length; ++i) {
+                    table = table + '<tr>';
+                    table = table + '<td>' + data[i].MaGiaoVien + '</td>';
+                    table = table + '<td>' + data[i].TenGiaoVien + '</td>';
+                    table = table + '<td>' + data[i].Luong + '</td>';
+                    table = table + '<td>' + data[i].SoDienThoai + '</td>';
+                    table = table + '<td>' + data[i]?.tKhoa?.TenKhoa + '</td>';
+                    table = table + '<td>' + data[i]?.tBoMon?.TenBoMon +'</td>';                    
+                    table = table + '<td> <ul class="action-list"> <li> <button type="button" onclick="GetBook(\'' + data[i].MaGiaoVien + '\')"><i class="fa fa-edit"></i></button></li> <li> <button type="button" onclick="DeleteBook(\'' + data[i].MaGiaoVien + '\')"><i class="fa fa-trash"></i></button></li> </ul> </td>';
+                    table = table + '</tr>';
+                }
+                document.getElementById('allGiaoVien').innerHTML = table;
+            }
+        })
+    }
+    //kiểm tra nhập đầy đủ chưa
+    function validateInput() {
+        var mgv = $("#mgv").val();
+        var name = $("#name").val();
+        var salary = $("#salary").val();
+        var bookType = $("#khoaTypeSelect").val();
+        var producer = $("#bomonSelect").val();
+        var sdt = $("#sdt").val();
+
+        if (mgv == '' || name == '' || salary == '' || bookType == '' || producer == '' || sdt == '' || producer == '' || sdt == '') {
+            alert('Vui lòng nhập đầy đủ thông tin giáo viên!');
+            return false;
+        }
+        return true;
+    }
+
+    // clear ở form
+    function clearInput() {
+        document.getElementById("mgv").disabled = false;
+        $("#mgv").val("");
+        $("#name").val("");
+        $("#salary").val("");
+        $("#khoaTypeSelect").val("");
+        $("#bomonSelect").val("");
+        $("#sdt").val("");
+    }
+
+    //thêm giáo viên
+    function addGIaoVien() {
+        if (!validateInput()) {
+            return;
+        }
+        var mgv = $("#mgv").val();
+        $.ajax({
+            url: url + "/giaovien/" + mgv,
+            method: "get",
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (res) {
+                if (res != null) {
+                    alert("Mã giáo viên đã tồn tại!");
+                    return;
+                }
+
+                $.ajax({
+                    url: url + "/giaovien",
+                    method: "post",
+                    data: JSON.stringify({
+                        "MaGiaoVien": mgv,
+                        "TenGiaoVien": $("#name").val(),
+                        "Luong": $("#salary").val(),
+                        "MaKhoa": $("#khoaTypeSelect").val(),
+                        "MaBoMon": $("#bomonSelect").val(),
+                        "SoDienThoai": $("#sdt").val()
+                    }),
+                    contentType: 'application/json',
+                    dataType: 'json',
+                    error: function (res) {
+                        alert("Thêm mới không thành công!");
+                    },
+                    success: function (res) {
+                        alert("Thêm mới thành công!");
+                        GetGiaoVienList();
+                        clearInput();
+                    }
+                });
+            },
+            error: function (res) {
+                alert("Lỗi!");
+            }
+        });
+    }
+
+    //xóa giáo viên
+    function DeleteBook(Ma) {
+        if (confirm("Bạn có chắc muốn xóa?")) {
+            $.ajax({
+                url: url + "/giaovien/" + Ma,
+                method: 'Delete',
+                contentType: 'application/json',
+                dataType: 'json',
+                error: function () {
+                    alert("Xóa không thành công!");
+                },
+                success: function () {
+                    alert("Xóa thành công!");
+                    GetGiaoVienList();
+                    clearInput();
+                }
+            })
+        }
+    }
+
+    
+    function GetBook(MaGV) {
+        $.ajax({
+            url: url + "/giaovien/" + MaGV,
+            method: 'get',
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (data) {
+                $("#mgv").val(data.MaGiaoVien).prop('disabled', true);
+                $("#mgv").val(data.MaGiaoVien),
+                    $("#name").val(data.TenGiaoVien),
+                    $("#salary").val(data.Luong),
+                    $("#khoaTypeSelect").val(data.tKhoa.MaKhoa),
+                    $("#bomonSelect").val(data.tBoMon.MaBoMon),
+                    $("#sdt").val(data.SoDienThoai)
+
+            }
+        })
+    }
+
+    //Chỉnh sửa giáo viên
+    function editGiaoVien() {
+        var mgv = $("#mgv").val();
+        if (mgv === "") {
+            alert("Nhập mã giáo viên muốn sửa!");
+            $("#mgv").focus();
+            return;
+        }
+
+        // Kiểm tra xem mã gv có tồn tại trong dữ liệu hay không
+        $.ajax({
+            url: url + "/giaovien/" + mgv,
+            method: "GET",
+            dataType: 'json',
+            success: function (data) {
+                if (!data) {
+                    alert("Mã giáo vien không tồn tại!");
+                    return;
+                }
+
+                if (!validateInput()) {
+                    return;
+                }
+                if (confirm("Bạn có chắc muốn sửa?")) {
+                    $.ajax({
+                        url: url + "/giaovien",
+                        method: "PUT",
+                        contentType: 'application/json',
+                        dataType: 'json',
+                        data: JSON.stringify({
+                            "MaGiaoVien": $("#mgv").val() == "" ? "NULL" : $("#mgv").val(),
+                            "TenGiaoVien": $("#name").val() == "" ? "NULL" : $("#name").val(),
+                            "Luong": $("#salary").val() == "" ? "NULL" : $("#salary").val(),
+                            "SoDienThoai": $("#sdt").val() == "" ? "1" : $("#sdt").val(),
+                            "tKhoa": { "MaKhoa": $("#khoaTypeSelect").val() == "" ? "NULL" : $("#khoaTypeSelect").val() },
+                            "tBoMon": { "MaBoMon": $("#bomonSelect").val() == "" ? "NULL" : $("#bomonSelect").val() }
+                        }),
+                        error: function (data) {
+                            alert("Sửa không thành công!");
+                        },
+                        success: function (data) {
+                            alert("Sửa thành công!");
+                            GetGiaoVienList();
+                            clearInput();
+                        }
+                    });
+                }
+            },
+            error: function (data) {
+                alert("Lỗi!");
+            }
+        });
+    }
+
+    //tìm kiếm theo tên hoặc ma
+    function searchGiaoVienName() {
+        if ($("#chon").val() == "Mã") {
+            var mgv = $("#name1").val();
+            if (mgv == "") {
+                alert("Nhập mã giáo viên muốn tìm");
+                return;
+            }
+            $.ajax({
+                url: url + "/giaovien/" + $("#name1").val(),
+                method: 'GET',
+                contentType: 'application/json',
+                dataType: 'json',
+                success: function (data) {
+                    if (data == null) {
+                        alert("Không có mã giáo viên cần tìm !")
+                        $("#name1").val("");
+                        return;
+
+                    }
+                    let table = '';
+                        table = table + '<tr>';
+                        table = table + '<td>' + data.MaGiaoVien + '</td>';
+                        table = table + '<td>' + data.TenGiaoVien + '</td>';
+                        table = table + '<td>' + data.Luong + '</td>';
+                        table = table + '<td>' + data.SoDienThoai + '</td>';
+                        table = table + '<td>' + data.tBoMon.TenBoMon + '</td>';
+                        table = table + '<td>' + data.tKhoa.TenKhoa + '</td>';
+                        table = table + '<td> <ul class="action-list"> <li> <button type="button" onclick="GetBook(\'' + data.MaGiaoVien + '\')"><i class="fa fa-edit"></i></button></li> <li> <button type="button" onclick="DeleteBook(\'' + data.MaGiaoVien + '\')"><i class="fa fa-trash"></i></button></li> </ul> </td>';
+                        table = table + '</tr>';                  
+                    document.getElementById('allGiaoVien').innerHTML = table;
+                },
+                error: function (data) {
+                    alert("Lỗi!");
+                }
+            });
+        }  
+        if ($("#chon").val() == "Tên") {
+            var name = $("#name1").val();
+            if (name == "") {
+                alert("Nhập tên giáo viên muốn tìm");
+                return;
+            }
+            $.ajax({
+                url: url + "/giaovien?name=" + name,
+                method: 'GET',
+                contentType: 'application/json',
+                dataType: 'json',
+                success: function (data) {
+                    if (data.length <= 0) {
+                        alert("Không có tên giáo viên cần tìm !")
+                        $("#name1").val("");
+                        return;
+
+                    }
+                    let table = '';
+                    for (var i = 0; i < data.length; ++i) {
+                        table = table + '<tr>';
+                        table = table + '<td>' + data[i].MaGiaoVien + '</td>';
+                        table = table + '<td>' + data[i].TenGiaoVien + '</td>';
+                        table = table + '<td>' + data[i].Luong + '</td>';
+                        table = table + '<td>' + data[i].SoDienThoai + '</td>';
+                        table = table + '<td>' + data[i].tBoMon.TenBoMon + '</td>';
+                        table = table + '<td>' + data[i].tKhoa.TenKhoa + '</td>';
+                        table = table + '<td> <ul class="action-list"> <li> <button type="button" onclick="GetBook(\'' + data[i].MaGiaoVien + '\')"><i class="fa fa-edit"></i></button></li> <li> <button type="button" onclick="DeleteBook(\'' + data[i].MaGiaoVien + '\')"><i class="fa fa-trash"></i></button></li> </ul> </td>';
+                        table = table + '</tr>';
+                    }
+                    document.getElementById('allGiaoVien').innerHTML = table;
+                },
+                error: function (data) {
+                    alert("Lỗi!");
+                }
+            });
+        }
+    }
+</script>
+</body >
+</html >

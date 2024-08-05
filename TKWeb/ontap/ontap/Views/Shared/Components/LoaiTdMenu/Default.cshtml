@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Trandau>
+<div class="row">
+	<div class="col-sm-12 text-left menu-1">
+		<ul>
+			@foreach(var item in Model )
+			{
+                var getUrl = "https://localhost:7272/api/productapi/" + item.TranDauId;         
+                <li><a style="cursor:pointer" onclick="showCauthu('@getUrl')">@item.TranDauId</a></li>
+				@*<li class="active"><a href="index.html">@item.TranDauId</a></li>*@
+			}
+			</ul>
+	</div>
+</div>
+
+<script>
+	function showCauthu(getUrl) {
+		var str = '';
+		$.ajax({
+			type: 'GET',
+			url: getUrl,
+			dataType: 'json',
+			success: function (data) {
+				$.each(data, function (key, val) {
+					str += '<li>'
+					str += '<p>' + val.cauThuId + '</p>'
+					str += '<p>' + val.hoVaTen + '</p>'
+					str += '</li>'
+				});
+				$('#displayCauthus').html(str);
+			},
+			Error: function (xhr) {
+				alert(xhr.responseText)
+			}
+		});
+	}
+</script>

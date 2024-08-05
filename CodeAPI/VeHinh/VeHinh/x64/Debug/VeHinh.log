@@ -1,0 +1,4 @@
+﻿  VeHinh.cpp
+D:\CodeAPI\VeHinh\VeHinh\VeHinh.cpp(158,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CodeAPI\VeHinh\VeHinh\VeHinh.cpp(163,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VeHinh.vcxproj -> D:\CodeAPI\VeHinh\x64\Debug\VeHinh.exe
